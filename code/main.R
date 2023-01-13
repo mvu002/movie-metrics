@@ -84,3 +84,6 @@ length(unique(ratings_and_data$primary_title))
 ####          `data` variable was filtered to only include TitleType "movie"
 #### SOLUTION -- filter `my_ratings` for only rows with TitleType == "movie"
 
+View(my_movie_ratings)
+
+View(filter(my_movie_ratings, str_detect(my_movie_ratings$Genres, 'Horror') == TRUE))
