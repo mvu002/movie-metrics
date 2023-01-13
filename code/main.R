@@ -84,6 +84,15 @@ length(unique(ratings_and_data$primary_title))
 ####          `data` variable was filtered to only include TitleType "movie"
 #### SOLUTION -- filter `my_ratings` for only rows with TitleType == "movie"
 
+# Filter movies by genre
 View(my_movie_ratings)
-
 View(filter(my_movie_ratings, str_detect(my_movie_ratings$Genres, 'Horror') == TRUE))
+
+# Get list of genres defined by IMDB
+imdb_genres <- c('Action','Adult','Adventure','Animation','Biography','Comedy','Crime','Documentary','Drama','Family','Fantasy','Film Noir','Game Show','History','Horror','Musical','Music','Mystery','News','Reality-TV','Romance','Sci-Fi','Short','Sport','Talk-Show','Thriller','War','Western')
+
+# Get counts of each genre
+for (genre in imdb_genres) {
+  print(paste(genre, ":", sum(str_detect(my_movie_ratings$Genres, genre) == TRUE)))
+}
+  
