@@ -1,0 +1,393 @@
+Const,Your Rating,Date Rated,Title,URL,Title Type,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
+tt10003008,6,2022-05-07,The Rental,https://www.imdb.com/title/tt10003008/,movie,5.7,88,2020,"Drama, Horror, Mystery, Thriller",33267,2020-06-18,Dave Franco
+tt0101414,7,2022-05-07,Beauty and the Beast,https://www.imdb.com/title/tt0101414/,movie,8.0,84,1991,"Animation, Family, Fantasy, Musical, Romance",457673,1991-09-29,"Kirk Wise, Gary Trousdale"
+tt0101540,9,2020-12-27,Cape Fear,https://www.imdb.com/title/tt0101540/,movie,7.3,128,1991,"Crime, Thriller",198735,1991-10-06,Martin Scorsese
+tt1017460,1,2020-12-28,Splice,https://www.imdb.com/title/tt1017460/,movie,5.8,104,2009,"Horror, Sci-Fi",98502,2009-10-06,Vincenzo Natali
+tt10183816,2,2022-05-07,Dangerous Lies,https://www.imdb.com/title/tt10183816/,movie,5.3,96,2020,Thriller,17554,2020-04-30,Michael M. Scott
+tt0102926,9,2020-08-24,The Silence of the Lambs,https://www.imdb.com/title/tt0102926/,movie,8.6,118,1991,"Crime, Drama, Thriller",1435941,1991-01-30,Jonathan Demme
+tt10303430,3,2022-05-07,Sightless,https://www.imdb.com/title/tt10303430/,movie,5.5,89,2020,"Drama, Thriller",8931,2020-09-02,Cooper Karl
+tt0103064,8,2022-05-07,Terminator 2: Judgment Day,https://www.imdb.com/title/tt0103064/,movie,8.6,137,1991,"Action, Sci-Fi",1102253,1991-07-01,James Cameron
+tt0103639,9,2022-05-07,Aladdin,https://www.imdb.com/title/tt0103639/,movie,8.0,90,1992,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",423909,1992-11-08,"Ron Clements, John Musker"
+tt10418662,10,2021-07-20,Awake,https://www.imdb.com/title/tt10418662/,movie,4.9,96,2021,"Action, Adventure, Drama, Horror, Sci-Fi, Thriller",22562,2021-06-09,Mark Raso
+tt1049413,8,2022-05-07,Up,https://www.imdb.com/title/tt1049413/,movie,8.3,96,2009,"Animation, Adventure, Comedy, Drama, Family",1047414,2009-05-13,"Pete Docter, Bob Peterson"
+tt1063056,4,2022-05-07,From Within,https://www.imdb.com/title/tt1063056/,movie,5.6,89,2008,"Horror, Mystery, Thriller",7789,2008-04-25,Phedon Papamichael
+tt10648342,8,2022-07-10,Thor: Love and Thunder,https://www.imdb.com/title/tt10648342/,movie,6.3,118,2022,"Action, Adventure, Comedy, Fantasy, Romance, Sci-Fi",334158,2022-06-23,Taika Waititi
+tt10675724,3,2022-05-07,La nuée,https://www.imdb.com/title/tt10675724/,movie,5.3,101,2020,"Drama, Fantasy, Horror",7215,2020-08-29,Just Philippot
+tt10691162,4,2022-05-07,Aftermath,https://www.imdb.com/title/tt10691162/,movie,5.3,114,2021,"Drama, Horror, Mystery, Thriller",16696,2021-08-04,Peter Winther
+tt0106941,7,2020-12-30,For Love or Money,https://www.imdb.com/title/tt0106941/,movie,6.2,96,1993,"Comedy, Drama, Romance",14640,1993-10-01,Barry Sonnenfeld
+tt0107048,8,2022-05-07,Groundhog Day,https://www.imdb.com/title/tt0107048/,movie,8.1,101,1993,"Comedy, Drama, Fantasy, Romance",635346,1993-02-02,Harold Ramis
+tt0107290,8,2022-05-07,Jurassic Park,https://www.imdb.com/title/tt0107290/,movie,8.2,127,1993,"Action, Adventure, Sci-Fi, Thriller",992086,1993-06-09,Steven Spielberg
+tt10731256,3,2022-10-30,Don't Worry Darling,https://www.imdb.com/title/tt10731256/,movie,6.2,123,2022,"Drama, Thriller",92196,2022-09-05,Olivia Wilde
+tt10731748,5,2020-08-14,Modo Avião,https://www.imdb.com/title/tt10731748/,movie,5.1,96,2020,"Comedy, Drama, Romance",2731,2020-01-23,César Rodrigues
+tt0107688,8,2022-05-07,The Nightmare Before Christmas,https://www.imdb.com/title/tt0107688/,movie,7.9,76,1993,"Animation, Family, Fantasy, Musical",346252,1993-10-09,Henry Selick
+tt10872600,3,2022-05-07,Spider-Man: No Way Home,https://www.imdb.com/title/tt10872600/,movie,8.2,148,2021,"Action, Adventure, Fantasy, Sci-Fi",758977,2021-12-13,Jon Watts
+tt10914452,3,2022-05-07,Il legame,https://www.imdb.com/title/tt10914452/,movie,4.8,93,2020,"Drama, Horror, Thriller",4336,2020-10-02,Domenico de Feudis
+tt10954652,2,2022-05-09,Old,https://www.imdb.com/title/tt10954652/,movie,5.8,108,2021,"Drama, Horror, Mystery, Thriller",122706,2021-07-21,M. Night Shyamalan
+tt10962368,6,2022-05-07,Things Heard & Seen,https://www.imdb.com/title/tt10962368/,movie,5.3,121,2021,"Drama, Horror, Mystery, Thriller",32356,2021-04-29,"Shari Springer Berman, Robert Pulcini"
+tt0109830,7,2022-05-07,Forrest Gump,https://www.imdb.com/title/tt0109830/,movie,8.8,142,1994,"Drama, Romance",2083560,1994-06-23,Robert Zemeckis
+tt0110357,9,2022-05-07,The Lion King,https://www.imdb.com/title/tt0110357/,movie,8.5,88,1994,"Animation, Adventure, Drama, Family, Musical",1061319,1994-06-12,"Rob Minkoff, Roger Allers"
+tt0110912,9,2022-05-07,Pulp Fiction,https://www.imdb.com/title/tt0110912/,movie,8.9,154,1994,"Crime, Drama",2059595,1994-05-21,Quentin Tarantino
+tt11116374,2,2022-05-07,Non mi uccidere,https://www.imdb.com/title/tt11116374/,movie,4.3,90,2021,"Fantasy, Horror, Romance",2033,2021-04-21,Andrea De Sica
+tt11127690,6,2022-05-07,El practicante,https://www.imdb.com/title/tt11127690/,movie,5.7,94,2020,"Adventure, Crime, Drama, Thriller",13125,2020-09-16,Carles Torras
+tt11138512,3,2022-07-31,The Northman,https://www.imdb.com/title/tt11138512/,movie,7.1,137,2022,"Action, Adventure, Drama, Fantasy, History, Thriller",207593,2022-04-01,Robert Eggers
+tt11263022,3,2022-05-07,The Seventh Day,https://www.imdb.com/title/tt11263022/,movie,4.5,87,2021,"Horror, Mystery",4807,2021-03-18,Justin P. Lange
+tt11284280,1,2022-07-31,Kadaver,https://www.imdb.com/title/tt11284280/,movie,5.2,86,2020,"Drama, Horror, Thriller",10704,2020-10-20,Jarand Herdal
+tt11307814,2,2022-05-07,Red Dot,https://www.imdb.com/title/tt11307814/,movie,5.5,86,2021,"Drama, Horror, Thriller",13766,2021-02-11,Alain Darborg
+tt1130884,10,2022-05-07,Shutter Island,https://www.imdb.com/title/tt1130884/,movie,8.2,138,2010,"Mystery, Thriller",1319943,2010-02-13,Martin Scorsese
+tt0113189,7,2020-03-07,GoldenEye,https://www.imdb.com/title/tt0113189/,movie,7.2,130,1995,"Action, Adventure, Thriller",259551,1995-11-13,Martin Campbell
+tt0114369,9,2022-05-07,Se7en,https://www.imdb.com/title/tt0114369/,movie,8.6,127,1995,"Crime, Drama, Mystery, Thriller",1656531,1995-09-15,David Fincher
+tt11464826,9,2022-12-01,The Social Dilemma,https://www.imdb.com/title/tt11464826/,movie,7.6,94,2020,"Documentary, Drama",83941,2020-01-26,Jeff Orlowski-Yang
+tt0114709,7,2022-05-07,Toy Story,https://www.imdb.com/title/tt0114709/,movie,8.3,81,1995,"Animation, Adventure, Comedy, Family, Fantasy",996995,1995-11-19,John Lasseter
+tt0114814,8,2022-07-22,The Usual Suspects,https://www.imdb.com/title/tt0114814/,movie,8.5,106,1995,"Crime, Drama, Mystery, Thriller",1088153,1995-01-25,Bryan Singer
+tt1156398,6,2022-05-07,Zombieland,https://www.imdb.com/title/tt1156398/,movie,7.6,88,2009,"Action, Comedy, Horror",582118,2009-09-25,Ruben Fleischer
+tt1160419,4,2022-06-21,Dune: Part One,https://www.imdb.com/title/tt1160419/,movie,8.0,155,2021,"Action, Adventure, Drama, Sci-Fi",639182,2021-09-03,Denis Villeneuve
+tt1161864,3,2022-05-07,The Rite,https://www.imdb.com/title/tt1161864/,movie,6.0,114,2011,"Drama, Horror, Mystery, Thriller",99271,2011-01-26,Mikael Håfström
+tt0116282,7,2020-12-16,Fargo,https://www.imdb.com/title/tt0116282/,movie,8.1,98,1996,"Crime, Thriller",681464,1996-03-08,"Joel Coen, Ethan Coen"
+tt1170358,7,2022-05-07,The Hobbit: The Desolation of Smaug,https://www.imdb.com/title/tt1170358/,movie,7.8,161,2013,"Adventure, Fantasy",668093,2013-12-02,Peter Jackson
+tt1179904,1,2020-01-04,Paranormal Activity,https://www.imdb.com/title/tt1179904/,movie,6.3,86,2007,"Horror, Mystery",242967,2007-10-14,Oren Peli
+tt11804152,8,2022-05-07,Till Death,https://www.imdb.com/title/tt11804152/,movie,5.8,88,2021,Thriller,22646,2021-07-02,S.K. Dale
+tt0118715,7,2022-05-07,The Big Lebowski,https://www.imdb.com/title/tt0118715/,movie,8.1,117,1998,"Comedy, Crime",812349,1998-01-18,"Joel Coen, Ethan Coen"
+tt0118956,5,2022-07-10,Deep Rising,https://www.imdb.com/title/tt0118956/,movie,6.1,106,1998,"Action, Adventure, Horror, Sci-Fi",38096,1998-01-30,Stephen Sommers
+tt0118972,3,2022-07-24,The Devil's Own,https://www.imdb.com/title/tt0118972/,movie,6.2,111,1997,"Action, Crime, Drama, Thriller",67163,1997-03-13,Alan J. Pakula
+tt0119081,3,2020-05-27,Event Horizon,https://www.imdb.com/title/tt0119081/,movie,6.6,96,1997,"Horror, Sci-Fi, Thriller",183659,1997-08-15,Paul W.S. Anderson
+tt0119174,3,2021-07-19,The Game,https://www.imdb.com/title/tt0119174/,movie,7.7,129,1997,"Drama, Mystery, Thriller",400604,1997-09-03,David Fincher
+tt0119345,6,2022-05-07,I Know What You Did Last Summer,https://www.imdb.com/title/tt0119345/,movie,5.8,101,1997,"Horror, Mystery",148925,1997-10-09,Jim Gillespie
+tt1197624,7,2022-05-07,Law Abiding Citizen,https://www.imdb.com/title/tt1197624/,movie,7.4,109,2009,"Action, Crime, Drama, Thriller",300632,2009-09-23,F. Gary Gray
+tt1201607,7,2022-05-07,Harry Potter and the Deathly Hallows - Part 2,https://www.imdb.com/title/tt1201607/,movie,8.1,130,2011,"Adventure, Family, Fantasy, Mystery",879328,2011-07-07,David Yates
+tt0120363,6,2022-05-07,Toy Story 2,https://www.imdb.com/title/tt0120363/,movie,7.9,92,1999,"Animation, Adventure, Comedy, Family, Fantasy",584823,1999-11-13,"John Lasseter, Lee Unkrich, Ash Brannon"
+tt0120382,8,2022-05-07,The Truman Show,https://www.imdb.com/title/tt0120382/,movie,8.2,103,1998,"Comedy, Drama",1086490,1998-06-01,Peter Weir
+tt0120737,7,2022-05-07,The Lord of the Rings: The Fellowship of the Ring,https://www.imdb.com/title/tt0120737/,movie,8.8,178,2001,"Action, Adventure, Drama, Fantasy",1879311,2001-12-10,Peter Jackson
+tt0120890,8,2022-05-07,Wild Things,https://www.imdb.com/title/tt0120890/,movie,6.6,108,1998,"Crime, Drama, Mystery, Thriller",122661,1998-03-20,John McNaughton
+tt0120915,8,2022-05-07,Star Wars: Episode I - The Phantom Menace,https://www.imdb.com/title/tt0120915/,movie,6.5,136,1999,"Action, Adventure, Fantasy, Sci-Fi",809605,1999-05-16,George Lucas
+tt1211837,7,2022-05-07,Doctor Strange,https://www.imdb.com/title/tt1211837/,movie,7.5,115,2016,"Action, Adventure, Fantasy, Sci-Fi",746807,2016-10-13,Scott Derrickson
+tt1212450,10,2020-12-28,Lawless,https://www.imdb.com/title/tt1212450/,movie,7.2,116,2012,"Biography, Crime, Drama",244229,2012-05-19,John Hillcoat
+tt12163074,2,2022-07-17,The Resort,https://www.imdb.com/title/tt12163074/,movie,3.1,76,2021,Horror,3156,2021-04-30,Taylor Chien
+tt0121765,8,2022-05-07,Star Wars: Episode II - Attack of the Clones,https://www.imdb.com/title/tt0121765/,movie,6.6,142,2002,"Action, Adventure, Fantasy, Sci-Fi",715361,2002-05-12,George Lucas
+tt0121766,8,2022-05-07,Star Wars: Episode III - Revenge of the Sith,https://www.imdb.com/title/tt0121766/,movie,7.6,140,2005,"Action, Adventure, Fantasy, Sci-Fi",795794,2005-05-12,George Lucas
+tt1220198,3,2022-05-07,The Fourth Kind,https://www.imdb.com/title/tt1220198/,movie,5.9,98,2009,"Horror, Mystery, Sci-Fi, Thriller",78936,2009-10-24,Olatunde Osunsanmi
+tt1220719,7,2020-12-16,Ip Man,https://www.imdb.com/title/tt1220719/,movie,8.0,106,2008,"Action, Biography, Drama, History",225464,2008-12-12,Wilson Yip
+tt1228705,5,2022-05-07,Iron Man 2,https://www.imdb.com/title/tt1228705/,movie,6.9,124,2010,"Action, Adventure, Sci-Fi",821291,2010-04-26,Jon Favreau
+tt12361974,1,2022-05-08,Zack Snyder's Justice League,https://www.imdb.com/title/tt12361974/,movie,8.0,242,2021,"Action, Adventure, Fantasy, Sci-Fi",400600,2021-03-18,Zack Snyder
+tt12383460,3,2022-05-07,Hypnotic,https://www.imdb.com/title/tt12383460/,movie,5.3,88,2021,"Mystery, Thriller",17059,2021-10-27,"Suzanne Coote, Matt Angel"
+tt1259521,6,2022-05-07,The Cabin in the Woods,https://www.imdb.com/title/tt1259521/,movie,7.0,95,2011,"Horror, Mystery, Thriller",422185,2011-12-11,Drew Goddard
+tt0126029,7,2022-05-07,Shrek,https://www.imdb.com/title/tt0126029/,movie,7.9,90,2001,"Animation, Adventure, Comedy, Family, Fantasy, Romance",682104,2001-04-22,"Vicky Jenson, Andrew Adamson"
+tt1270797,5,2022-05-19,Venom,https://www.imdb.com/title/tt1270797/,movie,6.6,112,2018,"Action, Adventure, Sci-Fi",489545,2018-10-01,Ruben Fleischer
+tt1270798,8,2022-05-07,X: First Class,https://www.imdb.com/title/tt1270798/,movie,7.7,131,2011,"Action, Adventure, Sci-Fi",696372,2011-05-25,Matthew Vaughn
+tt12829958,3,2022-05-07,The Old Ways,https://www.imdb.com/title/tt12829958/,movie,5.4,90,2020,"Drama, Fantasy, Horror, Thriller",6691,2020-10-08,Christopher Alender
+tt1284575,5,2020-12-28,Bad Teacher,https://www.imdb.com/title/tt1284575/,movie,5.6,92,2011,"Comedy, Romance",205190,2011-06-17,Jake Kasdan
+tt1285016,10,2020-08-18,The Social Network,https://www.imdb.com/title/tt1285016/,movie,7.8,120,2010,"Biography, Drama",707665,2010-09-24,David Fincher
+tt12908110,3,2022-10-17,Mr. Harrigan's Phone,https://www.imdb.com/title/tt12908110/,movie,6.0,104,2022,"Drama, Horror, Mystery",29742,2022-10-05,John Lee Hancock
+tt1298650,6,2022-05-07,Pirates of the Caribbean: On Stranger Tides,https://www.imdb.com/title/tt1298650/,movie,6.6,137,2011,"Action, Adventure, Fantasy",532040,2011-05-07,Rob Marshall
+tt12987894,9,2021-04-07,American Murder: The Family Next Door,https://www.imdb.com/title/tt12987894/,movie,7.2,83,2020,"Documentary, Crime",29188,2020-09-30,Jenny Popplewell
+tt0130018,5,2022-05-07,I Still Know What You Did Last Summer,https://www.imdb.com/title/tt0130018/,movie,4.7,100,1998,"Horror, Mystery, Thriller",75170,1998-11-13,Danny Cannon
+tt1300854,5,2022-05-07,Iron Man Three,https://www.imdb.com/title/tt1300854/,movie,7.1,130,2013,"Action, Adventure, Sci-Fi",854019,2013-04-14,Shane Black
+tt13033790,4,2022-05-07,Hostage House,https://www.imdb.com/title/tt13033790/,movie,3.9,85,2021,Thriller,924,2021-07-27,David Benullo
+tt13235822,1,2022-07-30,Umma,https://www.imdb.com/title/tt13235822/,movie,4.7,83,2022,"Drama, Horror, Mystery",7672,2022-03-18,Iris K. Shim
+tt0133093,6,2022-05-07,The Matrix,https://www.imdb.com/title/tt0133093/,movie,8.7,136,1999,"Action, Sci-Fi",1916829,1999-03-24,"Lilly Wachowski, Lana Wachowski"
+tt13377488,3,2022-05-07,W jak morderstwo,https://www.imdb.com/title/tt13377488/,movie,5.4,105,2021,"Comedy, Thriller",1719,2021-06-18,Piotr Mularuk
+tt1345836,8,2022-05-07,The Dark Knight Rises,https://www.imdb.com/title/tt1345836/,movie,8.4,164,2012,"Action, Drama",1708698,2012-07-16,Christopher Nolan
+tt1375666,9,2019-12-31,Inception,https://www.imdb.com/title/tt1375666/,movie,8.8,148,2010,"Action, Adventure, Sci-Fi, Thriller",2357407,2010-07-08,Christopher Nolan
+tt1375670,5,2022-05-07,Grown Ups,https://www.imdb.com/title/tt1375670/,movie,5.9,102,2010,Comedy,255270,2010-06-24,Dennis Dugan
+tt1386691,4,2022-05-07,Shimmer Lake,https://www.imdb.com/title/tt1386691/,movie,6.3,86,2017,"Action, Crime, Drama, Horror, Mystery, Romance, Thriller",15349,2017-06-09,Oren Uziel
+tt1386932,8,2020-12-16,Yip Man 2,https://www.imdb.com/title/tt1386932/,movie,7.5,108,2010,"Action, Biography, Drama, History",106347,2010-04-29,Wilson Yip
+tt1392170,6,2022-05-07,The Hunger Games,https://www.imdb.com/title/tt1392170/,movie,7.2,142,2012,"Action, Adventure, Sci-Fi, Thriller",922991,2012-03-12,Gary Ross
+tt1392190,10,2022-05-07,Mad Max: Fury Road,https://www.imdb.com/title/tt1392190/,movie,8.1,120,2015,"Action, Adventure, Sci-Fi, Thriller",1006576,2015-05-07,George Miller
+tt1396484,5,2019-12-30,It,https://www.imdb.com/title/tt1396484/,movie,7.3,135,2017,Horror,553351,2017-09-05,Andy Muschietti
+tt1431045,5,2022-05-07,Deadpool,https://www.imdb.com/title/tt1431045/,movie,8.0,108,2016,"Action, Adventure, Comedy, Sci-Fi",1042508,2016-01-21,Tim Miller
+tt1446714,1,2022-07-11,Prometheus,https://www.imdb.com/title/tt1446714/,movie,7.0,124,2012,"Adventure, Mystery, Sci-Fi",613364,2012-04-11,Ridley Scott
+tt0145487,8,2022-05-07,Spider-Man,https://www.imdb.com/title/tt0145487/,movie,7.4,121,2002,"Action, Adventure, Sci-Fi",821620,2002-04-30,Sam Raimi
+tt1457767,7,2022-05-07,The Conjuring,https://www.imdb.com/title/tt1457767/,movie,7.5,112,2013,"Horror, Mystery, Thriller",513195,2013-06-08,James Wan
+tt14614892,7,2022-08-26,Doragon bôru sûpâ: Sûpâ hîrô,https://www.imdb.com/title/tt14614892/,movie,7.1,100,2022,"Animation, Action, Adventure, Fantasy",9857,2022-06-11,Tetsuro Kodama
+tt1462758,2,2022-05-07,Buried,https://www.imdb.com/title/tt1462758/,movie,7.0,95,2010,"Drama, Mystery, Thriller",162588,2010-01-23,Rodrigo Cortés
+tt14637290,4,2022-05-07,Das Privileg,https://www.imdb.com/title/tt14637290/,tvMovie,4.7,107,2022,"Drama, Horror, Mystery, Sci-Fi, Thriller",4991,2022-02-09,"Felix Fuchssteiner, Katharina Schöde"
+tt14817272,6,2022-05-07,The Weekend Away,https://www.imdb.com/title/tt14817272/,movie,5.6,89,2022,"Crime, Drama, Mystery, Thriller",25436,2022-03-03,Kim Farrant
+tt1540011,1,2022-08-13,Blair Witch,https://www.imdb.com/title/tt1540011/,movie,5.0,89,2016,"Horror, Mystery, Thriller",46951,2016-09-11,Adam Wingard
+tt15438246,1,2023-01-01,Kaleidoscope,https://www.imdb.com/title/tt15438246/,tvMiniSeries,6.8,373,2023,"Action, Crime, Drama, Thriller",16694,2023-01-01,
+tt0154506,8,2019-12-30,Following,https://www.imdb.com/title/tt0154506/,movie,7.5,69,1998,"Crime, Mystery, Thriller",94387,1998-04-24,Christopher Nolan
+tt15474916,5,2022-11-19,Smile,https://www.imdb.com/title/tt15474916/,movie,6.6,115,2022,"Horror, Mystery, Thriller",91696,2022-09-22,Parker Finn
+tt1560985,3,2022-05-07,The Devil Inside,https://www.imdb.com/title/tt1560985/,movie,4.2,83,2012,Horror,36413,2012-01-05,William Brent Bell
+tt15850662,4,2022-05-07,The Whole Truth,https://www.imdb.com/title/tt15850662/,movie,5.2,125,2021,"Drama, Horror, Mystery, Thriller",3710,2021-12-02,Wisit Sasanatieng
+tt1591095,5,2022-05-07,Insidious,https://www.imdb.com/title/tt1591095/,movie,6.8,103,2010,"Horror, Mystery, Thriller",312422,2010-09-14,James Wan
+tt1618434,10,2022-05-07,Murder Mystery,https://www.imdb.com/title/tt1618434/,movie,6.0,97,2019,"Action, Comedy, Crime, Mystery, Romance",131193,2019-06-14,Kyle Newacheck
+tt1631867,6,2020-02-29,Edge of Tomorrow,https://www.imdb.com/title/tt1631867/,movie,7.9,113,2014,"Action, Adventure, Sci-Fi",683077,2014-05-28,Doug Liman
+tt0164212,8,2022-05-07,Under Suspicion,https://www.imdb.com/title/tt0164212/,movie,6.4,110,2000,"Crime, Drama, Thriller",26329,2000-05-11,Stephen Hopkins
+tt1649418,4,2022-07-25,The Gray Man,https://www.imdb.com/title/tt1649418/,movie,6.5,122,2022,"Action, Thriller",201723,2022-07-13,"Anthony Russo, Joe Russo"
+tt0166792,7,2020-01-04,Scooby-Doo on Zombie Island,https://www.imdb.com/title/tt0166792/,video,7.7,77,1998,"Animation, Adventure, Comedy, Family, Fantasy, Mystery",15722,1998-09-22,Jim Stenstrum
+tt0167260,7,2022-05-07,The Lord of the Rings: The Return of the King,https://www.imdb.com/title/tt0167260/,movie,9.0,201,2003,"Action, Adventure, Drama, Fantasy",1849771,2003-12-01,Peter Jackson
+tt0167261,7,2022-05-07,The Lord of the Rings: The Two Towers,https://www.imdb.com/title/tt0167261/,movie,8.8,179,2002,"Action, Adventure, Drama, Fantasy",1670348,2002-12-05,Peter Jackson
+tt0167404,7,2022-05-07,The Sixth Sense,https://www.imdb.com/title/tt0167404/,movie,8.2,107,1999,"Drama, Mystery, Thriller",995095,1999-08-02,M. Night Shyamalan
+tt1706620,7,2020-06-07,Snowpiercer,https://www.imdb.com/title/tt1706620/,movie,7.1,126,2013,"Action, Drama, Sci-Fi, Thriller",364674,2013-07-29,Bong Joon Ho
+tt1790809,5,2022-05-07,Pirates of the Caribbean: Dead Men Tell No Tales,https://www.imdb.com/title/tt1790809/,movie,6.5,129,2017,"Action, Adventure, Fantasy",315498,2017-05-11,"Espen Sandberg, Joachim Rønning"
+tt1790864,5,2022-05-07,The Maze Runner,https://www.imdb.com/title/tt1790864/,movie,6.8,113,2014,"Action, Mystery, Sci-Fi, Thriller",472169,2014-09-11,Wes Ball
+tt1798709,6,2020-12-27,Her,https://www.imdb.com/title/tt1798709/,movie,8.0,126,2013,"Drama, Romance, Sci-Fi",617866,2013-10-12,Spike Jonze
+tt0181689,7,2020-05-29,Minority Report,https://www.imdb.com/title/tt0181689/,movie,7.6,145,2002,"Action, Crime, Mystery, Sci-Fi, Thriller",555722,2002-06-17,Steven Spielberg
+tt1825683,7,2022-05-07,Black Panther,https://www.imdb.com/title/tt1825683/,movie,7.3,134,2018,"Action, Adventure, Sci-Fi",777257,2018-01-29,Ryan Coogler
+tt1830643,1,2022-05-07,Death of Me,https://www.imdb.com/title/tt1830643/,movie,4.4,94,2020,"Horror, Mystery, Thriller",6636,2020-10-02,Darren Lynn Bousman
+tt1840309,1,2022-07-05,Divergent,https://www.imdb.com/title/tt1840309/,movie,6.6,139,2014,"Action, Adventure, Mystery, Sci-Fi",464017,2014-03-18,Neil Burger
+tt1843866,5,2022-05-07,Captain America: The Winter Soldier,https://www.imdb.com/title/tt1843866/,movie,7.8,136,2014,"Action, Adventure, Sci-Fi, Thriller",849650,2014-03-13,"Anthony Russo, Joe Russo"
+tt1853728,9,2022-05-07,Django Unchained,https://www.imdb.com/title/tt1853728/,movie,8.4,165,2012,"Drama, Western",1558744,2012-12-11,Quentin Tarantino
+tt1869347,7,2022-05-07,Crooked House,https://www.imdb.com/title/tt1869347/,movie,6.3,115,2017,"Crime, Drama, Mystery, Thriller",25161,2017-10-31,Gilles Paquet-Brenner
+tt1872181,5,2022-05-07,The Amazing Spider-Man 2,https://www.imdb.com/title/tt1872181/,movie,6.6,142,2014,"Action, Adventure, Sci-Fi",501996,2014-04-10,Marc Webb
+tt1877830,5,2022-05-07,The Batman,https://www.imdb.com/title/tt1877830/,movie,7.8,176,2022,"Action, Crime, Drama, Thriller",653604,2022-03-01,Matt Reeves
+tt1878841,2,2022-05-07,The Darkness,https://www.imdb.com/title/tt1878841/,movie,4.5,92,2016,"Horror, Thriller",16465,2016-05-13,Greg McLean
+tt18968540,5,2022-07-24,Zhou,https://www.imdb.com/title/tt18968540/,movie,6.2,110,2022,"Horror, Mystery",14504,2022-03-18,Kevin Ko
+tt1922777,6,2022-05-07,Sinister,https://www.imdb.com/title/tt1922777/,movie,6.8,110,2012,"Horror, Mystery, Thriller",256866,2012-03-11,Scott Derrickson
+tt1951264,5,2022-05-07,The Hunger Games: Catching Fire,https://www.imdb.com/title/tt1951264/,movie,7.5,146,2013,"Action, Adventure, Sci-Fi, Thriller",669184,2013-11-11,Francis Lawrence
+tt1951265,5,2022-05-07,The Hunger Games: Mockingjay - Part 1,https://www.imdb.com/title/tt1951265/,movie,6.6,123,2014,"Action, Adventure, Sci-Fi, Thriller",459778,2014-11-10,Francis Lawrence
+tt0198781,7,2022-05-07,"Monsters, Inc.",https://www.imdb.com/title/tt0198781/,movie,8.1,92,2001,"Animation, Adventure, Comedy, Family, Fantasy",912585,2001-10-28,"Pete Docter, David Silverman, Lee Unkrich"
+tt0199626,2,2022-05-07,In the Cut,https://www.imdb.com/title/tt0199626/,movie,5.4,119,2003,"Mystery, Thriller",24846,2003-09-09,Jane Campion
+tt2005374,6,2022-05-07,The Frozen Ground,https://www.imdb.com/title/tt2005374/,movie,6.4,105,2013,"Crime, Drama, Thriller",64059,2013-02-01,Scott Walker
+tt2015381,6,2022-05-07,Guardians of the Galaxy,https://www.imdb.com/title/tt2015381/,movie,8.0,121,2014,"Action, Adventure, Comedy, Sci-Fi",1183847,2014-07-21,James Gunn
+tt2069797,5,2020-05-26,Delirium,https://www.imdb.com/title/tt2069797/,movie,5.7,96,2018,"Horror, Thriller",7807,2018-05-10,Dennis Iliadis
+tt0209144,9,2022-05-07,Memento,https://www.imdb.com/title/tt0209144/,movie,8.4,113,2000,"Mystery, Thriller",1241682,2000-09-05,Christopher Nolan
+tt21933110,1,2022-10-16,Old People,https://www.imdb.com/title/tt21933110/,movie,5.1,101,2022,Horror,4607,2022-09-08,Andy Fetscher
+tt2226417,4,2022-05-07,Insidious: Chapter 2,https://www.imdb.com/title/tt2226417/,movie,6.5,106,2013,"Horror, Mystery, Thriller",173407,2013-09-13,James Wan
+tt2250912,7,2022-05-07,Spider-Man: Homecoming,https://www.imdb.com/title/tt2250912/,movie,7.4,133,2017,"Action, Adventure, Sci-Fi",661185,2017-06-28,Jon Watts
+tt2267998,10,2022-05-07,Gone Girl,https://www.imdb.com/title/tt2267998/,movie,8.1,149,2014,"Drama, Mystery, Thriller",986976,2014-09-26,David Fincher
+tt2310332,8,2022-05-19,The Hobbit: The Battle of the Five Armies,https://www.imdb.com/title/tt2310332/,movie,7.4,144,2014,"Adventure, Fantasy",537368,2014-12-01,Peter Jackson
+tt2321405,7,2020-08-23,Ma vie de Courgette,https://www.imdb.com/title/tt2321405/,movie,7.7,66,2016,"Animation, Comedy, Drama",26194,2016-05-15,Claude Barras
+tt2321549,1,2022-05-07,The Babadook,https://www.imdb.com/title/tt2321549/,movie,6.8,94,2014,"Horror, Mystery",228079,2014-01-17,Jennifer Kent
+tt2382320,8,2022-05-07,No Time to Die,https://www.imdb.com/title/tt2382320/,movie,7.3,163,2021,"Action, Adventure, Thriller",404526,2021-09-28,Cary Joji Fukunaga
+tt2386237,3,2022-05-07,Malevolent,https://www.imdb.com/title/tt2386237/,movie,4.8,89,2018,"Horror, Mystery, Thriller",14803,2018-10-05,Olaf de Fleur Johannesson
+tt2387433,2,2022-05-07,Dark Skies,https://www.imdb.com/title/tt2387433/,movie,6.3,97,2013,"Horror, Sci-Fi, Thriller",76865,2013-02-21,Scott Stewart
+tt2395427,5,2022-05-07,Avengers: Age of Ultron,https://www.imdb.com/title/tt2395427/,movie,7.3,141,2015,"Action, Adventure, Sci-Fi",867447,2015-04-13,Joss Whedon
+tt0241527,7,2022-05-07,Harry Potter and the Sorcerer's Stone,https://www.imdb.com/title/tt0241527/,movie,7.6,152,2001,"Adventure, Family, Fantasy",785729,2001-11-04,Chris Columbus
+tt2428170,4,2020-06-12,Creep,https://www.imdb.com/title/tt2428170/,movie,6.3,77,2014,"Horror, Thriller",57733,2014-03-08,Patrick Brice
+tt0245429,9,2022-05-07,Sen to Chihiro no kamikakushi,https://www.imdb.com/title/tt0245429/,movie,8.6,125,2001,"Animation, Adventure, Family, Fantasy, Mystery",766715,2001-07-20,Hayao Miyazaki
+tt0245674,3,2022-05-07,Thir13en Ghosts,https://www.imdb.com/title/tt0245674/,movie,5.6,91,2001,"Fantasy, Horror",88813,2001-10-23,Steve Beck
+tt2479478,3,2022-05-07,The Ridiculous 6,https://www.imdb.com/title/tt2479478/,movie,4.8,119,2015,"Action, Adventure, Comedy, Western",50359,2015-12-06,Frank Coraci
+tt2488496,5,2022-05-07,Star Wars: Episode VII - The Force Awakens,https://www.imdb.com/title/tt2488496/,movie,7.8,138,2015,"Action, Adventure, Sci-Fi",934072,2015-12-14,J.J. Abrams
+tt0249478,7,2021-08-04,Domestic Disturbance,https://www.imdb.com/title/tt0249478/,movie,5.6,89,2001,"Crime, Thriller",27788,2001-10-30,Harold Becker
+tt2527336,6,2022-05-07,Star Wars: Episode VIII - The Last Jedi,https://www.imdb.com/title/tt2527336/,movie,6.9,152,2017,"Action, Adventure, Fantasy, Sci-Fi",635575,2017-12-09,Rian Johnson
+tt2527338,5,2020-08-24,Star Wars: Episode IX - The Rise of Skywalker,https://www.imdb.com/title/tt2527338/,movie,6.5,141,2019,"Action, Adventure, Fantasy, Sci-Fi",454719,2019-12-16,J.J. Abrams
+tt0257106,10,2020-03-05,Scary Movie 2,https://www.imdb.com/title/tt0257106/,movie,5.3,83,2001,"Comedy, Horror",164190,2001-07-04,Keenen Ivory Wayans
+tt2584384,9,2022-07-25,Jojo Rabbit,https://www.imdb.com/title/tt2584384/,movie,7.9,108,2019,"Comedy, Drama, War",394066,2019-09-08,Taika Waititi
+tt0261983,4,2020-12-27,Session 9,https://www.imdb.com/title/tt0261983/,movie,6.4,100,2001,"Drama, Horror, Mystery",59859,2001-07-31,Brad Anderson
+tt0266543,7,2022-05-07,Finding Nemo,https://www.imdb.com/title/tt0266543/,movie,8.2,100,2003,"Animation, Adventure, Comedy, Family",1047099,2003-05-18,"Andrew Stanton, Lee Unkrich"
+tt0266697,8,2022-05-07,Kill Bill: Vol. 1,https://www.imdb.com/title/tt0266697/,movie,8.2,111,2003,"Action, Crime, Drama, Thriller",1119552,2003-09-29,Quentin Tarantino
+tt2737304,6,2020-01-11,Bird Box,https://www.imdb.com/title/tt2737304/,movie,6.6,124,2018,"Horror, Mystery, Sci-Fi",346412,2018-11-12,Susanne Bier
+tt2752772,5,2022-05-07,Sinister 2,https://www.imdb.com/title/tt2752772/,movie,5.3,97,2015,"Horror, Mystery, Thriller",56364,2015-08-19,Ciarán Foy
+tt0277371,10,2020-12-27,Not Another Teen Movie,https://www.imdb.com/title/tt0277371/,movie,5.7,89,2001,Comedy,107702,2001-12-07,Joel Gallen
+tt2798920,3,2020-01-02,Annihilation,https://www.imdb.com/title/tt2798920/,movie,6.8,115,2018,"Adventure, Drama, Horror, Mystery, Sci-Fi, Thriller",330295,2018-02-13,Alex Garland
+tt2828996,5,2022-05-07,A Haunted House 2,https://www.imdb.com/title/tt2828996/,movie,4.6,86,2014,"Comedy, Fantasy, Horror",22138,2014-04-18,Michael Tiddes
+tt2948356,9,2022-05-07,Zootopia,https://www.imdb.com/title/tt2948356/,movie,8.0,108,2016,"Animation, Adventure, Comedy, Crime, Family, Mystery",503048,2016-02-11,"Rich Moore, Jared Bush, Byron Howard"
+tt2948372,10,2020-12-26,Soul,https://www.imdb.com/title/tt2948372/,movie,8.0,100,2020,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Music",332873,2020-10-11,"Pete Docter, Kemp Powers"
+tt0295297,7,2022-05-07,Harry Potter and the Chamber of Secrets,https://www.imdb.com/title/tt0295297/,movie,7.4,161,2002,"Adventure, Family, Fantasy, Mystery",640426,2002-11-03,Chris Columbus
+tt0303816,1,2022-07-17,Cabin Fever,https://www.imdb.com/title/tt0303816/,movie,5.6,93,2002,Horror,79696,2002-09-14,Eli Roth
+tt0304141,7,2022-05-07,Harry Potter and the Prisoner of Azkaban,https://www.imdb.com/title/tt0304141/,movie,7.9,142,2004,"Adventure, Family, Fantasy, Mystery",639395,2004-05-23,Alfonso Cuarón
+tt3065204,5,2022-05-07,The Conjuring 2,https://www.imdb.com/title/tt3065204/,movie,7.3,134,2016,"Horror, Mystery, Thriller",274419,2016-05-13,James Wan
+tt0309698,8,2022-05-07,Identity,https://www.imdb.com/title/tt0309698/,movie,7.3,90,2003,"Mystery, Thriller",251890,2003-04-23,James Mangold
+tt0316654,8,2022-05-07,Spider-Man 2,https://www.imdb.com/title/tt0316654/,movie,7.4,127,2004,"Action, Adventure, Sci-Fi",657551,2004-06-25,Sam Raimi
+tt3174376,2,2022-05-07,Before I Wake,https://www.imdb.com/title/tt3174376/,movie,6.2,97,2016,"Drama, Fantasy, Horror, Thriller",47945,2016-04-07,Mike Flanagan
+tt0317705,10,2022-05-07,The Incredibles,https://www.imdb.com/title/tt0317705/,movie,8.0,115,2004,"Animation, Action, Adventure, Family",741889,2004-10-27,Brad Bird
+tt3195644,4,2022-05-07,Insidious: Chapter 3,https://www.imdb.com/title/tt3195644/,movie,6.1,97,2015,"Horror, Mystery, Thriller",106768,2015-05-28,Leigh Whannell
+tt0032138,6,2022-05-07,The Wizard of Oz,https://www.imdb.com/title/tt0032138/,movie,8.1,102,1939,"Adventure, Family, Fantasy, Musical",403101,1939-08-10,"Mervyn LeRoy, George Cukor, Norman Taurog, King Vidor, Richard Thorpe, Victor Fleming"
+tt3216348,2,2022-05-07,Incarnate,https://www.imdb.com/title/tt3216348/,movie,5.3,87,2016,"Horror, Thriller",13400,2016-12-01,Brad Peyton
+tt0325980,7,2022-05-07,Pirates of the Caribbean: The Curse of the Black Pearl,https://www.imdb.com/title/tt0325980/,movie,8.1,143,2003,"Action, Adventure, Fantasy",1131088,2003-06-28,Gore Verbinski
+tt3286052,5,2020-05-27,February,https://www.imdb.com/title/tt3286052/,movie,5.9,93,2015,"Horror, Mystery, Thriller",23201,2015-09-12,Oz Perkins
+tt3289956,6,2020-12-20,The Autopsy of Jane Doe,https://www.imdb.com/title/tt3289956/,movie,6.8,86,2016,"Horror, Mystery, Thriller",121257,2016-09-09,André Øvredal
+tt0330373,8,2022-05-07,Harry Potter and the Goblet of Fire,https://www.imdb.com/title/tt0330373/,movie,7.7,157,2005,"Adventure, Family, Fantasy, Mystery",631533,2005-11-06,Mike Newell
+tt3315342,9,2022-05-07,Logan,https://www.imdb.com/title/tt3315342/,movie,8.1,137,2017,"Action, Drama, Sci-Fi, Thriller",767010,2017-02-17,James Mangold
+tt0332280,8,2020-12-30,The Notebook,https://www.imdb.com/title/tt0332280/,movie,7.8,123,2004,"Drama, Romance",577032,2004-05-20,Nick Cassavetes
+tt0332452,4,2020-12-28,Troy,https://www.imdb.com/title/tt0332452/,movie,7.3,163,2004,Drama,539137,2004-05-09,Wolfgang Petersen
+tt0335438,6,2020-12-28,Starsky & Hutch,https://www.imdb.com/title/tt0335438/,movie,6.1,101,2004,"Comedy, Crime",149206,2004-02-26,Todd Phillips
+tt0338013,9,2020-12-31,Eternal Sunshine of the Spotless Mind,https://www.imdb.com/title/tt0338013/,movie,8.3,108,2004,"Drama, Romance, Sci-Fi",1011396,2004-03-09,Michel Gondry
+tt3387520,3,2022-05-07,Scary Stories to Tell in the Dark,https://www.imdb.com/title/tt3387520/,movie,6.2,108,2019,"Adventure, Horror, Mystery",78361,2019-08-07,André Øvredal
+tt3387542,3,2022-05-07,The Forest,https://www.imdb.com/title/tt3387542/,movie,4.8,93,2016,"Horror, Mystery, Thriller",43623,2016-01-07,Jason Zada
+tt3402236,6,2022-05-07,Murder on the Orient Express,https://www.imdb.com/title/tt3402236/,movie,6.5,114,2017,"Crime, Drama, Mystery",262161,2017-11-03,Kenneth Branagh
+tt3460252,9,2022-05-07,The Hateful Eight,https://www.imdb.com/title/tt3460252/,movie,7.8,168,2015,"Crime, Drama, Mystery, Thriller, Western",606601,2015-12-07,Quentin Tarantino
+tt3498820,6,2022-05-07,Captain America: Civil War,https://www.imdb.com/title/tt3498820/,movie,7.8,147,2016,"Action, Adventure, Sci-Fi",791998,2016-04-12,"Anthony Russo, Joe Russo"
+tt3501632,7,2022-05-07,Thor: Ragnarok,https://www.imdb.com/title/tt3501632/,movie,7.9,130,2017,"Action, Adventure, Comedy, Fantasy, Sci-Fi",756193,2017-10-10,Taika Waititi
+tt0036342,9,2020-04-14,Shadow of a Doubt,https://www.imdb.com/title/tt0036342/,movie,7.8,108,1943,"Film-Noir, Thriller",66579,1943-01-12,Alfred Hitchcock
+tt0363988,7,2022-05-07,Secret Window,https://www.imdb.com/title/tt0363988/,movie,6.5,96,2004,"Drama, Mystery, Thriller",199254,2004-03-07,David Koepp
+tt0367594,5,2020-01-09,Charlie and the Chocolate Factory,https://www.imdb.com/title/tt0367594/,movie,6.7,115,2005,"Adventure, Comedy, Family, Fantasy, Musical",487184,2005-07-10,Tim Burton
+tt0036775,9,2020-02-05,Double Indemnity,https://www.imdb.com/title/tt0036775/,movie,8.3,107,1944,"Crime, Drama, Film-Noir, Mystery, Thriller",158846,1944-04-24,Billy Wilder
+tt0367882,8,2020-12-31,Indiana Jones and the Kingdom of the Crystal Skull,https://www.imdb.com/title/tt0367882/,movie,6.2,122,2008,"Action, Adventure",458127,2008-05-18,Steven Spielberg
+tt3711510,6,2022-05-07,El aviso,https://www.imdb.com/title/tt3711510/,movie,5.9,92,2018,"Adventure, Crime, Drama, Fantasy, Mystery, Thriller",6514,2018-02-24,Daniel Calparsoro
+tt0371746,8,2022-05-07,Iron Man,https://www.imdb.com/title/tt0371746/,movie,7.9,126,2008,"Action, Adventure, Sci-Fi",1062731,2008-04-14,Jon Favreau
+tt0372784,7,2022-05-07,Batman Begins,https://www.imdb.com/title/tt0372784/,movie,8.2,140,2005,"Action, Crime, Drama",1474802,2005-05-31,Christopher Nolan
+tt3731562,5,2022-06-21,Kong: Skull Island,https://www.imdb.com/title/tt3731562/,movie,6.6,118,2017,"Action, Adventure, Fantasy, Sci-Fi",322695,2017-01-02,Jordan Vogt-Roberts
+tt0373889,9,2022-05-07,Harry Potter and the Order of the Phoenix,https://www.imdb.com/title/tt0373889/,movie,7.5,138,2007,"Action, Adventure, Family, Fantasy, Mystery",586559,2007-06-28,David Yates
+tt3741700,3,2022-06-23,Godzilla: King of the Monsters,https://www.imdb.com/title/tt3741700/,movie,6.0,132,2019,"Action, Adventure, Fantasy, Sci-Fi",185365,2019-05-29,Michael Dougherty
+tt3748528,4,2022-05-07,Rogue One,https://www.imdb.com/title/tt3748528/,movie,7.8,133,2016,"Action, Adventure, Sci-Fi",643053,2016-12-10,Gareth Edwards
+tt0377818,5,2020-12-29,The Dukes of Hazzard,https://www.imdb.com/title/tt0377818/,movie,5.1,104,2005,Comedy,79787,2005-07-27,Jay Chandrasekhar
+tt3778644,5,2022-05-07,Solo: A Star Wars Story,https://www.imdb.com/title/tt3778644/,movie,6.9,135,2018,"Action, Adventure, Sci-Fi",350878,2018-05-10,Ron Howard
+tt0381061,6,2022-05-07,Casino Royale,https://www.imdb.com/title/tt0381061/,movie,8.0,144,2006,"Action, Adventure, Thriller",661398,2006-11-14,Martin Campbell
+tt3813310,4,2021-07-18,Cop Car,https://www.imdb.com/title/tt3813310/,movie,6.3,88,2015,"Crime, Thriller",34033,2015-01-24,Jon Watts
+tt0382625,3,2021-07-19,The Da Vinci Code,https://www.imdb.com/title/tt0382625/,movie,6.6,149,2006,"Mystery, Thriller",436632,2006-05-17,Ron Howard
+tt0382932,7,2022-05-07,Ratatouille,https://www.imdb.com/title/tt0382932/,movie,8.1,111,2007,"Animation, Adventure, Comedy, Family, Fantasy",741754,2007-06-22,"Brad Bird, Jan Pinkava"
+tt0383574,7,2022-05-07,Pirates of the Caribbean: Dead Man's Chest,https://www.imdb.com/title/tt0383574/,movie,7.3,151,2006,"Action, Adventure, Fantasy",723647,2006-06-24,Gore Verbinski
+tt3850590,4,2020-12-21,Krampus,https://www.imdb.com/title/tt3850590/,movie,6.2,98,2015,"Comedy, Drama, Fantasy, Horror",77991,2015-11-30,Michael Dougherty
+tt3860916,1,2022-07-31,Cargo,https://www.imdb.com/title/tt3860916/,movie,6.3,105,2017,"Drama, Horror, Sci-Fi, Thriller",44596,2017-10-06,"Yolanda Ramke, Ben Howling"
+tt0387564,8,2022-05-07,Saw,https://www.imdb.com/title/tt0387564/,movie,7.6,103,2004,"Horror, Mystery, Thriller",425997,2004-01-19,James Wan
+tt3896198,7,2022-05-07,Guardians of the Galaxy Vol. 2,https://www.imdb.com/title/tt3896198/,movie,7.6,136,2017,"Action, Adventure, Comedy, Sci-Fi",686073,2017-04-10,James Gunn
+tt0039689,7,2020-02-26,Out of the Past,https://www.imdb.com/title/tt0039689/,movie,8.0,97,1947,"Crime, Drama, Film-Noir, Romance, Thriller",38137,1947-11-25,Jacques Tourneur
+tt4006302,5,2022-05-07,Level 16,https://www.imdb.com/title/tt4006302/,movie,6.1,102,2018,"Drama, Mystery, Sci-Fi, Thriller",12821,2018-02-20,Danishka Esterhazy
+tt4008566,3,2022-05-07,La influencia,https://www.imdb.com/title/tt4008566/,movie,4.6,99,2019,Horror,3882,2019-06-21,Denis Rovira van Boekholt
+tt0402901,3,2022-05-07,The Cave,https://www.imdb.com/title/tt0402901/,movie,5.1,97,2005,"Adventure, Horror, Sci-Fi, Thriller",39657,2005-08-26,Bruce Hunt
+tt4030600,3,2020-05-20,The Bye Bye Man,https://www.imdb.com/title/tt4030600/,movie,4.3,96,2017,"Drama, Fantasy, Horror, Mystery, Thriller",24666,2017-01-06,Stacy Title
+tt4046784,2,2022-07-05,Maze Runner: The Scorch Trials,https://www.imdb.com/title/tt4046784/,movie,6.3,131,2015,"Action, Adventure, Sci-Fi, Thriller",254241,2015-09-01,Wes Ball
+tt4123430,1,2022-05-19,Fantastic Beasts: The Crimes of Grindelwald,https://www.imdb.com/title/tt4123430/,movie,6.5,134,2018,"Adventure, Family, Fantasy",286505,2018-11-08,David Yates
+tt4123432,2,2022-05-19,Fantastic Beasts: The Secrets of Dumbledore,https://www.imdb.com/title/tt4123432/,movie,6.2,142,2022,"Adventure, Family, Fantasy",142991,2022-04-06,David Yates
+tt0413300,10,2022-05-07,Spider-Man 3,https://www.imdb.com/title/tt0413300/,movie,6.3,139,2007,"Action, Adventure, Sci-Fi",595001,2007-04-03,Sam Raimi
+tt4154756,8,2022-05-07,Avengers: Infinity War,https://www.imdb.com/title/tt4154756/,movie,8.4,149,2018,"Action, Adventure, Sci-Fi",1084651,2018-04-23,"Anthony Russo, Joe Russo"
+tt4154796,8,2022-05-07,Avengers: Endgame,https://www.imdb.com/title/tt4154796/,movie,8.4,181,2019,"Action, Adventure, Drama, Sci-Fi",1135035,2019-04-22,"Anthony Russo, Joe Russo"
+tt4160708,8,2019-12-30,Don't Breathe,https://www.imdb.com/title/tt4160708/,movie,7.1,88,2016,"Crime, Horror, Thriller",278422,2016-03-12,Fede Alvarez
+tt0417741,7,2022-05-07,Harry Potter and the Half-Blood Prince,https://www.imdb.com/title/tt0417741/,movie,7.6,153,2009,"Action, Adventure, Family, Fantasy, Mystery",549949,2009-07-06,David Yates
+tt4178092,8,2022-05-07,The Gift,https://www.imdb.com/title/tt4178092/,movie,7.0,108,2015,"Drama, Mystery, Thriller",160634,2015-07-30,Joel Edgerton
+tt0041959,6,2020-02-05,The Third Man,https://www.imdb.com/title/tt0041959/,movie,8.1,104,1949,"Film-Noir, Mystery, Thriller",173257,1949-09-01,Carol Reed
+tt4332232,3,2022-05-07,Fractured,https://www.imdb.com/title/tt4332232/,movie,6.4,99,2019,Thriller,77797,2019-09-22,Brad Anderson
+tt0434409,7,2022-05-07,V for Vendetta,https://www.imdb.com/title/tt0434409/,movie,8.2,132,2005,"Action, Drama, Sci-Fi, Thriller",1125324,2005-12-11,James McTeigue
+tt0435761,6,2022-05-07,Toy Story 3,https://www.imdb.com/title/tt0435761/,movie,8.3,103,2010,"Animation, Adventure, Comedy, Family, Fantasy",839144,2010-06-12,Lee Unkrich
+tt4361050,4,2022-05-07,Ouija: Origin of Evil,https://www.imdb.com/title/tt4361050/,movie,6.2,99,2016,"Drama, Horror, Mystery, Thriller",66738,2016-10-18,Mike Flanagan
+tt0449088,6,2022-05-07,Pirates of the Caribbean: At World's End,https://www.imdb.com/title/tt0449088/,movie,7.1,169,2007,"Action, Adventure, Fantasy",655740,2007-05-19,Gore Verbinski
+tt4500922,3,2022-07-05,Maze Runner: The Death Cure,https://www.imdb.com/title/tt4500922/,movie,6.2,143,2018,"Action, Adventure, Sci-Fi, Thriller",143442,2018-01-17,Wes Ball
+tt4520988,5,2022-07-08,Frozen II,https://www.imdb.com/title/tt4520988/,movie,6.8,103,2019,"Animation, Adventure, Comedy, Drama, Family, Fantasy, Musical",175543,2019-11-07,"Jennifer Lee, Chris Buck"
+tt4550098,5,2022-07-30,Nocturnal Animals,https://www.imdb.com/title/tt4550098/,movie,7.5,116,2016,"Drama, Thriller",282939,2016-09-02,Tom Ford
+tt0045555,8,2020-02-12,The Big Heat,https://www.imdb.com/title/tt0045555/,movie,7.9,89,1953,"Crime, Film-Noir, Thriller",27224,1953-10-14,Fritz Lang
+tt0455857,7,2022-05-07,When a Stranger Calls,https://www.imdb.com/title/tt0455857/,movie,5.1,87,2006,"Horror, Thriller",46721,2006-02-03,Simon West
+tt0462482,4,2022-05-07,Population 436,https://www.imdb.com/title/tt0462482/,video,5.7,92,2006,"Drama, Horror, Mystery, Romance, Thriller",12994,2006-03-13,Michelle MacLaren
+tt4633694,10,2020-02-23,Spider-Man: Into the Spider-Verse,https://www.imdb.com/title/tt4633694/,movie,8.4,117,2018,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",533504,2018-12-06,"Bob Persichetti, Rodney Rothman, Peter Ramsey"
+tt4653586,3,2021-07-19,The Drowning,https://www.imdb.com/title/tt4653586/,movie,4.5,95,2016,"Drama, Thriller",3287,2016-10-08,Bette Gordon
+tt4680980,3,2022-05-07,Lavender,https://www.imdb.com/title/tt4680980/,movie,5.4,92,2016,"Horror, Thriller",7568,2016-04-18,Ed Gass-Donnelly
+tt0468569,10,2022-05-07,The Dark Knight,https://www.imdb.com/title/tt0468569/,movie,9.0,152,2008,"Action, Crime, Drama, Thriller",2657950,2008-07-14,Christopher Nolan
+tt4687108,3,2022-05-07,In the Tall Grass,https://www.imdb.com/title/tt4687108/,movie,5.4,101,2019,"Horror, Mystery, Sci-Fi, Thriller",57785,2019-09-20,Vincenzo Natali
+tt4695012,7,2022-08-01,It Comes at Night,https://www.imdb.com/title/tt4695012/,movie,6.2,91,2017,"Drama, Horror, Mystery, Sci-Fi, Thriller",95712,2017-04-29,Trey Edward Shults
+tt0470752,10,2020-07-24,Ex Machina,https://www.imdb.com/title/tt0470752/,movie,7.7,108,2014,"Drama, Sci-Fi, Thriller",549250,2014-12-16,Alex Garland
+tt4725842,4,2022-05-07,Girls with Balls,https://www.imdb.com/title/tt4725842/,movie,3.9,77,2018,"Comedy, Horror",3427,2018-09-23,Olivier Afonso
+tt0477348,7,2022-05-07,No Country for Old Men,https://www.imdb.com/title/tt0477348/,movie,8.2,122,2007,"Crime, Drama, Thriller",977796,2007-05-19,"Joel Coen, Ethan Coen"
+tt0482571,9,2022-05-07,The Prestige,https://www.imdb.com/title/tt0482571/,movie,8.5,130,2006,"Drama, Mystery, Sci-Fi, Thriller",1336759,2006-10-17,Christopher Nolan
+tt4971408,3,2020-05-22,Await Further Instructions,https://www.imdb.com/title/tt4971408/,movie,4.9,91,2018,"Horror, Mystery, Sci-Fi",9064,2018-06-22,Johnny Kevorkian
+tt4972582,9,2022-05-07,Split,https://www.imdb.com/title/tt4972582/,movie,7.3,117,2016,"Horror, Thriller",503031,2016-09-26,M. Night Shyamalan
+tt0499549,6,2022-05-07,Avatar,https://www.imdb.com/title/tt0499549/,movie,7.9,162,2009,"Action, Adventure, Fantasy, Sci-Fi",1299870,2009-12-10,James Cameron
+tt5034838,4,2022-06-22,Godzilla vs. Kong,https://www.imdb.com/title/tt5034838/,movie,6.3,113,2021,"Action, Sci-Fi, Thriller",211821,2021-03-24,Adam Wingard
+tt5052448,6,2022-05-07,Get Out,https://www.imdb.com/title/tt5052448/,movie,7.7,104,2017,"Horror, Mystery, Thriller",617028,2017-01-23,Jordan Peele
+tt5118314,8,2022-05-07,Star Wars: Episode III - The Return of Darth Vader,https://www.imdb.com/title/tt5118314/,video,7.5,9,2004,"Documentary, Short, Sci-Fi",20051,2004-09-20,
+tt5140878,4,2022-05-07,Annabelle: Creation,https://www.imdb.com/title/tt5140878/,movie,6.5,109,2017,"Horror, Mystery, Thriller",137125,2017-06-19,David F. Sandberg
+tt5162476,3,2020-01-15,6-5=2,https://www.imdb.com/title/tt5162476/,movie,4.4,104,2014,Horror,215,2014-11-14,Bharat Jain
+tt5294518,4,2022-05-07,Eli,https://www.imdb.com/title/tt5294518/,movie,5.8,98,2019,"Drama, Horror, Mystery, Thriller",37081,2019-10-18,Ciarán Foy
+tt5308322,8,2022-05-07,Happy Death Day,https://www.imdb.com/title/tt5308322/,movie,6.6,96,2017,"Comedy, Horror, Mystery, Thriller",145613,2017-10-07,Christopher Landon
+tt5311514,10,2022-05-07,Kimi no Na wa.,https://www.imdb.com/title/tt5311514/,movie,8.4,106,2016,"Animation, Drama, Fantasy, Romance",271529,2016-07-03,Makoto Shinkai
+tt5563324,3,2022-05-07,Intrusion,https://www.imdb.com/title/tt5563324/,movie,5.2,92,2021,"Drama, Thriller",18102,2021-09-22,Adam Salky
+tt5586362,2,2022-05-07,The Maus,https://www.imdb.com/title/tt5586362/,movie,4.5,90,2017,"Drama, Fantasy, Horror",6233,2017-09-22,Yayo Herrero
+tt5638642,4,2022-05-07,The Ritual,https://www.imdb.com/title/tt5638642/,movie,6.3,94,2017,"Horror, Mystery, Thriller",103720,2017-09-08,David Bruckner
+tt5666304,5,2020-12-20,The Little Hours,https://www.imdb.com/title/tt5666304/,movie,5.8,90,2017,"Comedy, Romance",23548,2017-01-19,Jeff Baena
+tt5726086,3,2022-05-07,Insidious: The Last Key,https://www.imdb.com/title/tt5726086/,movie,5.7,103,2018,"Horror, Mystery, Thriller",62007,2018-01-03,Adam Robitel
+tt5827790,3,2022-05-07,Orígenes secretos,https://www.imdb.com/title/tt5827790/,movie,6.1,96,2020,"Action, Crime, Drama, Mystery, Thriller",7078,2020-08-28,David Galán Galindo
+tt0059742,9,2022-05-07,The Sound of Music,https://www.imdb.com/title/tt0059742/,movie,8.1,172,1965,"Biography, Drama, Family, Musical, Romance",238335,1965-03-02,Robert Wise
+tt6111574,6,2021-07-20,The Woman in the Window,https://www.imdb.com/title/tt6111574/,movie,5.7,100,2020,"Crime, Drama, Mystery, Thriller",76493,2020-05-15,Joe Wright
+tt6195094,7,2022-05-07,Ghostland,https://www.imdb.com/title/tt6195094/,movie,6.4,91,2018,"Drama, Horror, Mystery, Thriller",33948,2018-02-03,Pascal Laugier
+tt6204340,5,2022-05-07,Bullet Head,https://www.imdb.com/title/tt6204340/,movie,5.4,93,2017,"Crime, Drama, Thriller",10642,2017-12-08,Paul Solet
+tt6214928,5,2022-05-07,1922,https://www.imdb.com/title/tt6214928/,movie,6.2,102,2017,"Crime, Drama, Horror, Mystery, Thriller",65246,2017-09-23,Zak Hilditch
+tt6217306,7,2022-05-07,Apostle,https://www.imdb.com/title/tt6217306/,movie,6.3,130,2018,"Drama, Fantasy, Horror, Mystery, Thriller",54200,2018-09-21,Gareth Evans
+tt6218358,7,2022-05-07,Calibre,https://www.imdb.com/title/tt6218358/,movie,6.8,101,2018,"Drama, Thriller",30266,2018-06-22,Matt Palmer
+tt6320628,5,2022-05-07,Spider-Man: Far from Home,https://www.imdb.com/title/tt6320628/,movie,7.4,129,2019,"Action, Adventure, Sci-Fi",497019,2019-06-26,Jon Watts
+tt6341832,2,2022-05-07,Oxygène,https://www.imdb.com/title/tt6341832/,movie,6.5,100,2021,"Drama, Fantasy, Sci-Fi, Thriller",39882,2021-05-12,Alexandre Aja
+tt6469960,4,2022-05-07,The Private Life of a Modern Woman,https://www.imdb.com/title/tt6469960/,movie,3.0,71,2017,Thriller,1816,2017-09-03,James Toback
+tt6560164,4,2022-05-07,Sweetheart,https://www.imdb.com/title/tt6560164/,movie,5.8,82,2019,"Adventure, Horror, Sci-Fi, Thriller",8854,2019-01-28,J.D. Dillard
+tt6610158,4,2022-05-07,Rust Creek,https://www.imdb.com/title/tt6610158/,movie,5.9,108,2018,"Crime, Drama, Thriller",12041,2018-05-03,Jen McGowan
+tt6644200,2,2019-12-30,A Quiet Place,https://www.imdb.com/title/tt6644200/,movie,7.5,90,2018,"Drama, Horror, Sci-Fi",533940,2018-03-09,John Krasinski
+tt0066921,7,2022-05-07,A Clockwork Orange,https://www.imdb.com/title/tt0066921/,movie,8.3,136,1971,"Crime, Sci-Fi",833294,1971-12-19,Stanley Kubrick
+tt0067185,6,2021-09-04,Harold and Maude,https://www.imdb.com/title/tt0067185/,movie,7.9,91,1971,"Comedy, Drama, Romance",78390,1971-12-20,Hal Ashby
+tt6751668,10,2020-01-20,Gisaengchung,https://www.imdb.com/title/tt6751668/,movie,8.5,132,2019,"Drama, Thriller",808299,2019-05-21,Bong Joon Ho
+tt6829180,3,2021-07-19,Welcome Home,https://www.imdb.com/title/tt6829180/,movie,5.2,97,2018,Thriller,8029,2018-11-08,George Ratliff
+tt6857112,6,2020-02-17,Us,https://www.imdb.com/title/tt6857112/,movie,6.8,116,2019,"Horror, Mystery, Thriller",303640,2019-03-08,Jordan Peele
+tt0068646,10,2020-12-09,The Godfather,https://www.imdb.com/title/tt0068646/,movie,9.2,175,1972,"Crime, Drama",1861497,1972-03-14,Francis Ford Coppola
+tt6874762,3,2022-05-07,Coming Home in the Dark,https://www.imdb.com/title/tt6874762/,movie,5.7,93,2021,"Crime, Horror, Thriller",6209,2021-01-30,James Ashcroft
+tt6988208,5,2022-05-07,House of the Witch,https://www.imdb.com/title/tt6988208/,tvMovie,4.3,90,2017,"Fantasy, Horror, Mystery, Thriller",3855,2017-10-07,Alex Merkin
+tt0070047,7,2022-05-07,The Exorcist,https://www.imdb.com/title/tt0070047/,movie,8.1,122,1973,Horror,411482,1973-12-26,William Friedkin
+tt7029854,5,2022-05-07,Le manoir,https://www.imdb.com/title/tt7029854/,movie,4.6,100,2017,"Comedy, Horror",2786,2017-06-09,Tony T. Datis
+tt7069210,3,2022-05-07,The Conjuring: The Devil Made Me Do It,https://www.imdb.com/title/tt7069210/,movie,6.3,112,2021,"Horror, Mystery, Thriller",117793,2021-05-26,Michael Chaves
+tt0070917,8,2020-05-19,The Wicker Man,https://www.imdb.com/title/tt0070917/,movie,7.5,88,1973,"Horror, Mystery, Thriller",82803,1973-12-06,Robin Hardy
+tt7097896,6,2022-05-19,Venom: Let There Be Carnage,https://www.imdb.com/title/tt7097896/,movie,5.9,97,2021,"Action, Adventure, Sci-Fi, Thriller",226934,2021-09-14,Andy Serkis
+tt7126746,4,2022-05-07,Truth or Dare,https://www.imdb.com/title/tt7126746/,tvMovie,5.0,88,2017,"Horror, Mystery, Thriller",4818,2017-10-08,Nick Simon
+tt0071315,9,2020-04-30,Chinatown,https://www.imdb.com/title/tt0071315/,movie,8.2,130,1974,"Drama, Mystery, Thriller",329222,1974-06-19,Roman Polanski
+tt7144666,3,2022-07-10,The Black Phone,https://www.imdb.com/title/tt7144666/,movie,6.9,103,2021,"Horror, Thriller",144868,2021-09-25,Scott Derrickson
+tt7149916,2,2022-05-07,Edge of Fear,https://www.imdb.com/title/tt7149916/,movie,4.5,91,2018,"Action, Crime, Thriller",3319,2018-08-01,Bobby Roth
+tt7286456,10,2020-01-14,Joker,https://www.imdb.com/title/tt7286456/,movie,8.4,122,2019,"Crime, Drama, Thriller",1291895,2019-08-31,Todd Phillips
+tt7315484,1,2022-08-02,The Silence,https://www.imdb.com/title/tt7315484/,movie,5.3,90,2019,"Drama, Horror, Sci-Fi, Thriller",46409,2019-04-10,John R. Leonetti
+tt0073195,9,2022-05-07,Jaws,https://www.imdb.com/title/tt0073195/,movie,8.1,124,1975,"Adventure, Thriller",610078,1975-06-20,Steven Spielberg
+tt0075314,10,2020-05-19,Taxi Driver,https://www.imdb.com/title/tt0075314/,movie,8.2,114,1976,"Crime, Drama",837342,1976-02-08,Martin Scorsese
+tt7541106,4,2022-05-07,1BR,https://www.imdb.com/title/tt7541106/,movie,5.8,90,2019,"Drama, Horror, Thriller",13587,2019-07-18,David Marmor
+tt7608028,3,2022-05-07,The Open House,https://www.imdb.com/title/tt7608028/,movie,3.3,94,2018,"Horror, Thriller",35030,2018-01-19,"Suzanne Coote, Matt Angel"
+tt7646322,3,2022-05-07,Shookum Hills,https://www.imdb.com/title/tt7646322/,movie,4.3,88,2021,"Horror, Mystery, Thriller",4786,2021-03-05,Bradley Parker
+tt7653254,8,2020-07-03,Marriage Story,https://www.imdb.com/title/tt7653254/,movie,7.9,137,2019,"Drama, Romance",313524,2019-08-29,Noah Baumbach
+tt7657566,3,2022-05-07,Death on the Nile,https://www.imdb.com/title/tt7657566/,movie,6.3,127,2022,"Crime, Drama, Mystery",152244,2022-02-09,Kenneth Branagh
+tt0076759,10,2022-05-07,Star Wars,https://www.imdb.com/title/tt0076759/,movie,8.6,121,1977,"Action, Adventure, Fantasy, Sci-Fi",1367924,1977-05-25,George Lucas
+tt7713068,4,2022-07-31,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,https://www.imdb.com/title/tt7713068/,movie,6.0,109,2020,"Action, Adventure, Comedy, Crime",241780,2020-01-25,Cathy Yan
+tt7772580,1,2022-09-21,The Perfection,https://www.imdb.com/title/tt7772580/,movie,6.2,90,2018,"Drama, Horror, Music, Thriller",44766,2018-09-20,Richard Shepard
+tt7784604,6,2019-12-30,Hereditary,https://www.imdb.com/title/tt7784604/,movie,7.3,127,2018,"Drama, Horror, Mystery, Thriller",322306,2018-01-21,Ari Aster
+tt7798634,4,2022-05-13,Ready or Not,https://www.imdb.com/title/tt7798634/,movie,6.8,95,2019,"Action, Comedy, Horror, Mystery, Thriller",154903,2019-03-12,"Matt Bettinelli-Olpin, Tyler Gillett"
+tt0780504,9,2020-06-26,Drive,https://www.imdb.com/title/tt0780504/,movie,7.8,100,2011,"Action, Drama",646061,2011-05-20,Nicolas Winding Refn
+tt0078748,9,2022-07-11,Alien,https://www.imdb.com/title/tt0078748/,movie,8.5,117,1979,"Horror, Sci-Fi",885977,1979-05-25,Ridley Scott
+tt7895904,3,2022-05-07,Family Blood,https://www.imdb.com/title/tt7895904/,movie,4.2,92,2018,"Drama, Horror, Thriller",3115,2018-03-16,Sonny Mallhi
+tt0790636,9,2021-01-14,Dallas Buyers Club,https://www.imdb.com/title/tt0790636/,movie,7.9,117,2013,"Biography, Drama",491950,2013-09-07,Jean-Marc Vallée
+tt0795351,6,2020-01-09,Case 39,https://www.imdb.com/title/tt0795351/,movie,6.2,109,2009,"Horror, Mystery, Thriller",88275,2009-08-13,Christian Alvart
+tt7979142,5,2022-05-07,The Night Clerk,https://www.imdb.com/title/tt7979142/,movie,5.6,90,2020,"Crime, Drama, Mystery, Romance, Thriller",16477,2020-02-19,Michael Cristofer
+tt0800369,5,2022-05-07,Thor,https://www.imdb.com/title/tt0800369/,movie,7.0,115,2011,"Action, Adventure, Fantasy",853302,2011-04-17,Kenneth Branagh
+tt0080339,6,2020-12-24,Airplane!,https://www.imdb.com/title/tt0080339/,movie,7.7,88,1980,Comedy,242839,1980-07-02,"Jim Abrahams, Jerry Zucker, David Zucker"
+tt8041270,1,2022-08-08,Jurassic World: Dominion,https://www.imdb.com/title/tt8041270/,movie,5.6,147,2022,"Action, Adventure, Sci-Fi, Thriller",160982,2022-05-23,Colin Trevorrow
+tt8058874,3,2022-05-07,We Summon the Darkness,https://www.imdb.com/title/tt8058874/,movie,5.2,91,2019,"Horror, Music, Thriller",10933,2019-02-28,Marc Meyers
+tt0080684,10,2022-05-07,The Empire Strikes Back,https://www.imdb.com/title/tt0080684/,movie,8.7,124,1980,"Action, Adventure, Fantasy, Sci-Fi",1295315,1980-05-17,Irvin Kershner
+tt0808151,5,2021-07-19,Angels & Demons,https://www.imdb.com/title/tt0808151/,movie,6.7,138,2009,"Action, Mystery, Thriller",296065,2009-05-04,Ron Howard
+tt8110652,2,2022-10-15,Bodies Bodies Bodies,https://www.imdb.com/title/tt8110652/,movie,6.3,94,2022,"Comedy, Horror, Thriller",35311,2022-03-14,Halina Reijn
+tt0081505,9,2022-05-07,The Shining,https://www.imdb.com/title/tt0081505/,movie,8.4,146,1980,"Drama, Horror",1025997,1980-05-23,Stanley Kubrick
+tt8150814,1,2022-05-07,There's Someone Inside Your House,https://www.imdb.com/title/tt8150814/,movie,4.8,96,2021,"Horror, Mystery, Thriller",17084,2021-09-23,Patrick Brice
+tt8160262,3,2022-05-07,El Hijo,https://www.imdb.com/title/tt8160262/,movie,5.5,92,2019,"Drama, Mystery, Thriller",3706,2019-05-02,Sebastián Schindel
+tt0816692,6,2020-01-15,Interstellar,https://www.imdb.com/title/tt0816692/,movie,8.6,169,2014,"Adventure, Drama, Sci-Fi",1837260,2014-10-26,Christopher Nolan
+tt0816711,5,2022-05-07,World War Z,https://www.imdb.com/title/tt0816711/,movie,7.0,116,2013,"Action, Adventure, Horror, Sci-Fi",671704,2013-06-02,Marc Forster
+tt0082089,10,2020-04-30,Body Heat,https://www.imdb.com/title/tt0082089/,movie,7.4,113,1981,"Crime, Drama, Romance, Thriller",36724,1981-08-28,Lawrence Kasdan
+tt8228288,8,2020-05-15,El hoyo,https://www.imdb.com/title/tt8228288/,movie,7.0,94,2019,"Horror, Sci-Fi, Thriller",229873,2019-09-06,Galder Gaztelu-Urrutia
+tt0082971,10,2020-12-31,Raiders of the Lost Ark,https://www.imdb.com/title/tt0082971/,movie,8.4,115,1981,"Action, Adventure",969522,1981-06-12,Steven Spielberg
+tt0830558,7,2022-05-07,The Girl Next Door,https://www.imdb.com/title/tt0830558/,movie,6.5,91,2007,"Crime, Drama, Horror, Thriller",27046,2007-07-19,Gregory Wilson
+tt8305806,1,2022-08-13,The Wretched,https://www.imdb.com/title/tt8305806/,movie,5.8,95,2019,"Horror, Mystery",17681,2019-07-19,"Drew T. Pierce, Brett Pierce"
+tt8364368,2,2022-07-31,Crawl,https://www.imdb.com/title/tt8364368/,movie,6.1,87,2019,"Action, Adventure, Horror, Thriller",85968,2019-07-10,Alexandre Aja
+tt0083658,5,2020-01-02,Blade Runner,https://www.imdb.com/title/tt0083658/,movie,8.1,117,1982,"Action, Drama, Sci-Fi, Thriller",773689,1982-06-25,Ridley Scott
+tt0840361,2,2020-12-28,The Town,https://www.imdb.com/title/tt0840361/,movie,7.5,125,2010,"Crime, Drama, Thriller",394276,2010-09-08,Ben Affleck
+tt8426594,3,2022-05-07,The Wind,https://www.imdb.com/title/tt8426594/,movie,5.6,88,2018,"Horror, Mystery, Thriller, Western",8691,2018-09-10,Emma Tammi
+tt0084516,3,2020-12-23,Poltergeist,https://www.imdb.com/title/tt0084516/,movie,7.3,114,1982,"Horror, Thriller",167186,1982-05-21,Tobe Hooper
+tt0084787,9,2022-05-07,The Thing,https://www.imdb.com/title/tt0084787/,movie,8.2,109,1982,"Horror, Mystery, Sci-Fi",428631,1982-06-25,John Carpenter
+tt0848228,6,2022-05-07,The Avengers,https://www.imdb.com/title/tt0848228/,movie,8.0,143,2012,"Action, Adventure, Sci-Fi",1394474,2012-04-11,Joss Whedon
+tt8508734,3,2022-05-07,His House,https://www.imdb.com/title/tt8508734/,movie,6.5,93,2020,"Drama, Horror, Thriller",43234,2020-01-27,Remi Weekes
+tt0086190,10,2022-05-07,Star Wars: Episode VI - Return of the Jedi,https://www.imdb.com/title/tt0086190/,movie,8.3,131,1983,"Action, Adventure, Fantasy, Sci-Fi",1057148,1983-05-23,Richard Marquand
+tt0086567,9,2020-12-29,WarGames,https://www.imdb.com/title/tt0086567/,movie,7.1,114,1983,"Action, Drama, Sci-Fi, Thriller",102262,1983-05-19,John Badham
+tt0871426,4,2020-12-28,Baby Mama,https://www.imdb.com/title/tt0871426/,movie,6.0,99,2008,"Comedy, Romance",45811,2008-04-23,Michael McCullers
+tt0087469,8,2020-12-31,Indiana Jones and the Temple of Doom,https://www.imdb.com/title/tt0087469/,movie,7.5,118,1984,"Action, Adventure",492228,1984-05-08,Steven Spielberg
+tt8747160,4,2022-05-07,The Block Island Sound,https://www.imdb.com/title/tt8747160/,movie,5.4,99,2020,"Horror, Mystery, Sci-Fi, Thriller",8302,2020-08-28,"Matthew McManus, Kevin McManus"
+tt8758086,3,2022-05-07,Mercy Black,https://www.imdb.com/title/tt8758086/,movie,4.9,88,2019,"Horror, Mystery, Thriller",3827,2019-03-24,Owen Egerton
+tt8772262,6,2022-05-19,Midsommar,https://www.imdb.com/title/tt8772262/,movie,7.1,148,2019,"Drama, Horror, Mystery, Thriller",328841,2019-06-24,Ari Aster
+tt0088247,8,2022-05-07,The Terminator,https://www.imdb.com/title/tt0088247/,movie,8.1,107,1984,"Action, Sci-Fi",868945,1984-10-26,James Cameron
+tt0884328,1,2022-05-07,The Mist,https://www.imdb.com/title/tt0884328/,movie,7.1,126,2007,"Horror, Sci-Fi, Thriller",314911,2007-05-09,Frank Darabont
+tt8855960,6,2020-07-24,Straight Up,https://www.imdb.com/title/tt8855960/,movie,6.9,95,2019,"Comedy, Romance",2836,2019-06-24,James Sweeney
+tt0088763,10,2020-12-23,Back to the Future,https://www.imdb.com/title/tt0088763/,movie,8.5,116,1985,"Adventure, Comedy, Sci-Fi",1209143,1985-07-03,Robert Zemeckis
+tt0892769,5,2022-05-07,How to Train Your Dragon,https://www.imdb.com/title/tt0892769/,movie,8.1,98,2010,"Animation, Action, Adventure, Comedy, Family, Fantasy",743775,2010-03-18,"Dean DeBlois, Chris Sanders"
+tt8946378,10,2020-01-14,Knives Out,https://www.imdb.com/title/tt8946378/,movie,7.9,130,2019,"Comedy, Crime, Drama, Mystery, Thriller",678414,2019-09-07,Rian Johnson
+tt0896798,8,2022-05-07,Cleaner,https://www.imdb.com/title/tt0896798/,movie,6.1,88,2007,Thriller,43859,2007-09-11,Renny Harlin
+tt9026184,4,2022-05-07,Girl on the Third Floor,https://www.imdb.com/title/tt9026184/,movie,4.7,93,2019,"Drama, Horror, Mystery",10490,2019-03-10,Travis Stevens
+tt9032400,1,2022-05-15,Eternals,https://www.imdb.com/title/tt9032400/,movie,6.3,156,2021,"Action, Adventure, Fantasy, Sci-Fi",344056,2021-10-18,Chloé Zhao
+tt0903624,6,2022-05-19,The Hobbit: An Unexpected Journey,https://www.imdb.com/title/tt0903624/,movie,7.8,169,2012,"Adventure, Fantasy",832384,2012-11-28,Peter Jackson
+tt9061402,1,2022-09-21,Into the Dark: Down,https://www.imdb.com/title/tt9061402/,tvEpisode,6.4,78,2019,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",2917,2019-02-01,Daniel Stamm
+tt9099102,5,2022-05-07,No Escape Room,https://www.imdb.com/title/tt9099102/,tvMovie,5.0,85,2018,"Horror, Mystery, Thriller",4718,2018-10-06,Alex Merkin
+tt0910970,8,2022-05-07,WALL·E,https://www.imdb.com/title/tt0910970/,movie,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",1119130,2008-06-21,Andrew Stanton
+tt9243946,7,2020-12-15,El Camino: A Breaking Bad Movie,https://www.imdb.com/title/tt9243946/,movie,7.3,122,2019,"Action, Crime, Drama, Thriller",254125,2019-10-07,Vince Gilligan
+tt9257484,3,2022-05-07,Rattlesnake,https://www.imdb.com/title/tt9257484/,movie,4.6,85,2019,"Drama, Horror, Mystery, Thriller",8910,2019-10-24,Zak Hilditch
+tt0926084,7,2022-05-07,Harry Potter and the Deathly Hallows: Part 1,https://www.imdb.com/title/tt0926084/,movie,7.7,146,2010,"Adventure, Family, Fantasy, Mystery",553480,2010-11-11,David Yates
+tt9264728,3,2022-05-07,What Lies Below,https://www.imdb.com/title/tt9264728/,movie,4.4,87,2020,"Drama, Horror, Mystery, Sci-Fi, Thriller",8506,2020-12-04,Braden R. Duemmler
+tt9345754,6,2022-05-07,Hogar,https://www.imdb.com/title/tt9345754/,movie,6.4,103,2020,"Drama, Thriller",18225,2020-03-25,"Àlex Pastor, David Pastor"
+tt9354842,1,2020-05-08,To All the Boys: P.S. I Still Love You,https://www.imdb.com/title/tt9354842/,movie,6.0,101,2020,"Comedy, Drama, Romance",40391,2020-02-12,Michael Fimognari
+tt9376612,3,2022-10-28,Shang-Chi and the Legend of the Ten Rings,https://www.imdb.com/title/tt9376612/,movie,7.4,132,2021,"Action, Adventure, Fantasy, Sci-Fi",384410,2021-08-16,Destin Daniel Cretton
+tt9421570,7,2022-05-07,The Guilty,https://www.imdb.com/title/tt9421570/,movie,6.3,90,2021,"Crime, Drama, Thriller",127824,2021-09-11,Antoine Fuqua
+tt9426210,10,2020-01-17,Tenki no ko,https://www.imdb.com/title/tt9426210/,movie,7.5,112,2019,"Animation, Drama, Fantasy, Romance",42746,2019-01-15,Makoto Shinkai
+tt0948470,5,2022-05-07,The Amazing Spider-Man,https://www.imdb.com/title/tt0948470/,movie,6.9,136,2012,"Action, Adventure, Sci-Fi",660098,2012-06-13,Marc Webb
+tt9654108,3,2022-05-07,Das schaurige Haus,https://www.imdb.com/title/tt9654108/,movie,5.4,100,2020,"Horror, Mystery, Thriller",4083,2020-09-26,Daniel Prochaska
+tt0096874,4,2020-12-26,Back to the Future Part II,https://www.imdb.com/title/tt0096874/,movie,7.8,108,1989,"Adventure, Comedy, Sci-Fi",537158,1989-11-20,Robert Zemeckis
+tt9731534,3,2022-05-19,The Night House,https://www.imdb.com/title/tt9731534/,movie,6.5,107,2020,"Horror, Mystery, Thriller",55585,2020-01-24,David Bruckner
+tt0974015,3,2022-05-08,Justice League,https://www.imdb.com/title/tt0974015/,movie,6.1,120,2017,"Action, Adventure, Fantasy, Sci-Fi",455710,2017-10-26,Zack Snyder
+tt0097576,9,2020-12-31,Indiana Jones and the Last Crusade,https://www.imdb.com/title/tt0097576/,movie,8.2,127,1989,"Action, Adventure",758357,1989-05-24,Steven Spielberg
+tt9794630,7,2022-05-20,Hour of Lead,https://www.imdb.com/title/tt9794630/,movie,5.7,115,2020,"Action, Crime, Horror, Thriller",11072,2020-02-28,Peter Facinelli
+tt0098084,7,2022-05-07,Pet Sematary,https://www.imdb.com/title/tt0098084/,movie,6.5,103,1989,"Fantasy, Horror, Thriller",106757,1989-04-21,Mary Lambert
+tt9866700,1,2022-05-07,Paranormal Investigation,https://www.imdb.com/title/tt9866700/,movie,3.7,92,2018,"Horror, Thriller",1732,2018-12-31,Franck Phelizon
+tt0099088,7,2020-12-26,Back to the Future Part III,https://www.imdb.com/title/tt0099088/,movie,7.4,118,1990,"Adventure, Comedy, Sci-Fi, Western",451117,1990-05-25,Robert Zemeckis
+tt0993846,8,2022-05-07,The Wolf of Wall Street,https://www.imdb.com/title/tt0993846/,movie,8.2,180,2013,"Biography, Comedy, Crime, Drama",1416150,2013-12-09,Martin Scorsese
+tt0099785,10,2022-05-07,Home Alone,https://www.imdb.com/title/tt0099785/,movie,7.7,103,1990,"Comedy, Family",594748,1990-11-10,Chris Columbus
+tt0099871,4,2022-05-07,Jacob's Ladder,https://www.imdb.com/title/tt0099871/,movie,7.4,113,1990,"Drama, Horror, Mystery",110350,1990-10-29,Adrian Lyne

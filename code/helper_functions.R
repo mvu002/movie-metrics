@@ -8,7 +8,7 @@ library(janitor)
 # Helper functions
 
 convert_to_csv <- function(filename) {
-  filepath <- paste0("C:/Users/mvu02/Desktop/Projects/movie-metrics/data/unzipped/", filename)
+  filepath <- paste0("C:/Users/mvu02/Downloads/", filename, "/data.tsv")
   csv <- as.data.frame(fread(filepath, quote = ""))
   return(csv)
 }

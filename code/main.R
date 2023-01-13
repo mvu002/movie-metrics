@@ -53,13 +53,13 @@ head(data)
 
 
 # My ratings
-my_ratings <- fread("C:/Users/mvu02/Desktop/Projects/Movie Memo/data/IMDB/csv/my_ratings.csv")
+my_ratings <- fread("C:/Users/mvu02/Desktop/Projects/movie-metrics/data/my_ratings.csv")
 head(my_ratings)
-my_ratings <- filter(my_ratings, `Title Type` == "movie")
+my_movie_ratings <- filter(my_ratings, `Title Type` == "movie")
 
 # My ratings + data
 ratings_and_data <- inner_join(data,
-                               my_ratings,
+                               my_movie_ratings,
                                by = c("tconst" = "Const"))
 head(ratings_and_data)
 ratings_and_data <- ratings_and_data %>%
@@ -70,9 +70,11 @@ head(ratings_and_data)
 length(unique(ratings_and_data$primary_title))
 
 ######### compare titles on my_ratings and data (final join is missing 10 titles)
-#not_in <- my_ratings %>%
+# not_in <- my_ratings %>%
 #  filter(!Title %in% unique(ratings_and_data$primary_title) & !Title %in% unique(ratings_and_data$original_title))
-#View(not_in)
+# View(not_in)
+#not_in <- my_ratings %>%
+#  filter(`Title Type` != "movie")
 #length(my_ratings$Title)
 #View(filter(data, startsWith(primaryTitle, "Star Wars")))
 #View(filter(movies, startsWith(primaryTitle, "Population")))
@@ -81,3 +83,4 @@ length(unique(ratings_and_data$primary_title))
 ####           which is why the `data` variable did not have matching rows
 ####          `data` variable was filtered to only include TitleType "movie"
 #### SOLUTION -- filter `my_ratings` for only rows with TitleType == "movie"
+
