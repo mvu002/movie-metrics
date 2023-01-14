@@ -91,8 +91,20 @@ View(filter(my_movie_ratings, str_detect(my_movie_ratings$Genres, 'Horror') == T
 # Get list of genres defined by IMDB
 imdb_genres <- c('Action','Adult','Adventure','Animation','Biography','Comedy','Crime','Documentary','Drama','Family','Fantasy','Film Noir','Game Show','History','Horror','Musical','Music','Mystery','News','Reality-TV','Romance','Sci-Fi','Short','Sport','Talk-Show','Thriller','War','Western')
 
-# Get counts of each genre
+# Get counts of each movie genre
 for (genre in imdb_genres) {
   print(paste(genre, ":", sum(str_detect(my_movie_ratings$Genres, genre) == TRUE)))
 }
-  
+
+
+genre_counts = c()
+for (genre in imdb_genres) {
+  genre_counts = c(genre_counts, sum(str_detect(my_movie_ratings$Genres, genre) == TRUE))
+}  
+
+# Create df of movie genre counts
+my_movie_genres_df <- data.frame(imdb_genres, genre_counts)
+my_movie_genres_df <- as_tibble(my_movie_genres_df)
+View(my_movie_genres_df)
+
+# Sort table by highest genre count, select top 5 genres
