@@ -107,4 +107,29 @@ my_movie_genres_df <- data.frame(imdb_genres, genre_counts)
 my_movie_genres_df <- as_tibble(my_movie_genres_df)
 View(my_movie_genres_df)
 
-# Sort table by highest genre count, select top 5 genres
+# Sort table by highest genre count
+my_movie_genres_df <- arrange(my_movie_genres_df, desc(genre_counts))
+my_movie_genres_df
+
+# Select Top 5 genres
+my_top_five_movie_genres <- my_movie_genres_df[1:5, 1:2]
+my_top_five_movie_genres
+
+# Identify director whose movies I watched the most
+my_movie_directors <- filter(ratings_and_data, category == "director")
+my_movie_directors 
+
+my_movie_directors <- table(my_movie_directors$primary_name)
+my_movie_directors <- data.frame(my_movie_directors)
+colnames(my_movie_directors) <- c('Director', 'Count')
+my_movie_directors <- as_tibble(my_movie_directors)
+View(my_movie_directors)
+
+my_movie_directors <- arrange(my_movie_directors, desc(Count))
+my_movie_directors
+
+# Select Top 5 directors
+my_top_five_movie_directors <- my_movie_directors[1:5, 1:2]
+my_top_five_movie_directors
+
+# Identify the actor whose movies I watched the most
