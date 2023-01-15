@@ -133,3 +133,37 @@ my_top_five_movie_directors <- my_movie_directors[1:5, 1:2]
 my_top_five_movie_directors
 
 # Identify the actor whose movies I watched the most
+my_movie_actors <- filter(ratings_and_data, category == "actor")
+my_movie_actors 
+
+my_movie_actors <- table(my_movie_actors$primary_name)
+my_movie_actors <- data.frame(my_movie_actors)
+colnames(my_movie_actors) <- c('Actor', 'Count')
+my_movie_actors <- as_tibble(my_movie_actors)
+View(my_movie_actors)
+
+my_movie_actors <- arrange(my_movie_actors, desc(Count))
+my_movie_actors
+
+# Select Top 5 actors
+my_top_five_movie_actors <- my_movie_actors[1:5, 1:2]
+my_top_five_movie_actors
+
+# Identify actress whose movies I watched the most
+my_movie_actresses <- filter(ratings_and_data, category == "actress")
+my_movie_actresses 
+
+my_movie_actresses <- table(my_movie_actresses$primary_name)
+my_movie_actresses <- data.frame(my_movie_actresses)
+colnames(my_movie_actresses) <- c('Director', 'Count')
+my_movie_actresses <- as_tibble(my_movie_actresses)
+View(my_movie_actresses)
+
+my_movie_actresses <- arrange(my_movie_actresses, desc(Count))
+my_movie_actresses
+
+# Select Top 5 actresses
+my_top_five_movie_actresses <- my_movie_actresses[1:5, 1:2]
+my_top_five_movie_actresses
+
+# Select the oldest movie that I watched
