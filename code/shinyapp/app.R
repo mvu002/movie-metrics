@@ -4,32 +4,32 @@ library(shiny)
 ui <- fluidPage(
   
   # App title ----
-  titlePanel("Uploading Files"),
+  titlePanel(
+    h1("Movie Metrics", align = "center")
+  ),
   
-  # Sidebar layout with input and output definitions ----
-  sidebarLayout(
-    
-    # Sidebar panel for inputs ----
-    sidebarPanel(
+  headerPanel(""),
+  
+  # Main panel for displaying outputs ----
+  mainPanel(
       
+    fluidRow(
+      align = "center",
       # Input: Select a file ----
-      fileInput("file1", "Choose CSV File",
+      fileInput("file1", "Please upload your IMDb CSV file",
                 multiple = FALSE,
                 accept = c("text/csv",
                            "text/comma-separated-values,text/plain",
                            ".csv")),
-    ),
-    
-    # Main panel for displaying outputs ----
-    mainPanel(
+      ), width = 12,
       
-      # Output: Data file ----
-      tableOutput("contents")
+    # Output: Data file ----
+    tableOutput("contents")
       
     )
-    
-  )
 )
+
+
 
 # Define server logic to read selected file ----
 server <- function(input, output) {
