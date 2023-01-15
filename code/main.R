@@ -167,3 +167,11 @@ my_top_five_movie_actresses <- my_movie_actresses[1:5, 1:2]
 my_top_five_movie_actresses
 
 # Select the oldest movie that I watched
+my_oldest_movie <- ratings_and_data %>%
+  arrange(start_year) %>%
+  select(primary_title, start_year) %>%
+  slice(1)
+
+my_oldest_movie
+
+# Select genre that I rate highest on average
