@@ -1,5 +1,8 @@
 library(shiny)
 library(data.table)
+library(dplyr)
+library(janitor)
+library(stringr)
 
 data <- fread("../data/imdb_movie_data.csv")
 
@@ -66,7 +69,7 @@ server <- function(input, output) {
     
     genre_counts = c()
     for (genre in imdb_genres) {
-      genre_counts = c(genre_counts, sum(str_detect(my_movie_ratings$Genres, genre) == TRUE))
+      genre_counts = c(genre_counts, sum(str_detect(movie_ratings$Genres, genre) == TRUE))
     }
     
     # Create df of movie genre counts
@@ -103,6 +106,11 @@ server <- function(input, output) {
     
     return(head(df))
   })
+  
+  test_list <- c("Christopher Nolan", "Chris Evans", "Ana de Armas")
+  fileConn<-file("../data/celebrity_names.txt")
+  writeLines(test_list, fileConn)
+  close(fileConn)
   
 }
 
