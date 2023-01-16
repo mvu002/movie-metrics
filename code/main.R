@@ -175,3 +175,5 @@ my_oldest_movie <- ratings_and_data %>%
 my_oldest_movie
 
 # Select genre that I rate highest on average
+
+# Select longest movie that I watched
