@@ -45,7 +45,17 @@ ui <- fluidPage(
 #      tableOutput("contents")
 #      )
     fluidRow(
-      textOutput("test_name")
+      textOutput("test_name"),
+      tags$head(tags$style("#test_name{color : black;
+                                      font-size: 20px;
+                                      font-style: italic;
+                           }")
+                )
+    ),
+    fluidRow(
+      imageOutput("director_img"),
+      #imageOutput("actor_img"),
+      #imageOutput("actress_img")
     )
     )
 )
@@ -184,8 +194,40 @@ server <- function(input, output) {
     
     py_run_file("tmdb_test.py")
     
-    return("Success")
+    return(paste(top_movie_director, "(most watched director)"))
   })
+  
+  output$director_img <- renderImage({
+    
+    req(input$file1)
+    ratings <- fread(input_file())
+    
+    movie_ratings <- filter(ratings, `Title Type` == "movie")
+    ratings_and_data <- inner_join(data,
+                                   movie_ratings,
+                                   by = c("tconst" = "Const"))
+    ratings_and_data <- ratings_and_data %>%
+      select(-genres, -`Title Type`, -runtimeMinutes, -`Title`) %>%
+      clean_names()
+    
+    # Identify director whose movies I watched the most
+    movie_directors <- filter(ratings_and_data, category == "director")
+    
+    movie_directors <- table(movie_directors$primary_name)
+    movie_directors <- data.frame(movie_directors)
+    colnames(movie_directors) <- c('Director', 'Count')
+    movie_directors <- as_tibble(movie_directors)
+    
+    movie_directors <- arrange(movie_directors, desc(Count))
+    
+    # Select Top 5 directors
+    top_five_movie_directors <- movie_directors[1:5, 1:2]
+    top_five_movie_directors[] <- lapply(top_five_movie_directors, as.character)
+    top_movie_director <- toString(top_five_movie_directors[1, 1])
+    print(top_movie_director)
+    
+    list(src = paste0("../data/", top_movie_director, ".jpg"))
+  }, deleteFile = F)
   
 }
 
