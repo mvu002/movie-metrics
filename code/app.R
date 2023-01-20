@@ -54,27 +54,45 @@ ui <- fluidPage(
     #                        }")
     #             )
     # ),
+
+    headerPanel(""),
+
     fluidRow(
       align = "center",
-      textOutput("director_name"),
-         tags$head(tags$style("#director_name{color : black;
-                                         font-size: 20px;
-                                         font-style: bold;}")),
-      imageOutput("director_img")
-      ),
+      textOutput("directors_header"),
+      tags$head(tags$style("#directors_header{color : blue;
+                                         font-size: 25px;
+                                         text-decoration-line: underline;}")),
+    ),
 
-headerPanel(""),
-headerPanel(""),
-headerPanel(""),
-headerPanel(""),
+    headerPanel(""),
 
     fluidRow(
-      align = "center", 
-      textOutput("actor_name"),
-      tags$head(tags$style("#actor_name{color : black;
+      align = "center",
+      column(
+        textOutput("director_name"),
+        tags$head(tags$style("#director_name{color : black;
                                          font-size: 20px;
                                          font-style: bold;}")),
-      imageOutput("actor_img")
+        imageOutput("director1_img"),
+        width = 4
+      ),
+      column(
+        textOutput("director2_name"),
+        tags$head(tags$style("#director2_name{color : black;
+                                         font-size: 20px;
+                                         font-style: bold;}")),
+        imageOutput("director2_img"),
+        width = 4
+      ),
+      column(
+        textOutput("director3_name"),
+        tags$head(tags$style("#director3_name{color : black;
+                                         font-size: 20px;
+                                         font-style: bold;}")),
+        imageOutput("director3_img"),
+        width = 4
+      ),
     ),
 
 headerPanel(""),
@@ -84,12 +102,85 @@ headerPanel(""),
 
     fluidRow(
       align = "center",
-      textOutput("actress_name"),
-      tags$head(tags$style("#actress_name{color : black;
+      textOutput("actors_header"),
+      tags$head(tags$style("#actors_header{color : blue;
+                                         font-size: 25px;
+                                         text-decoration-line: underline;}")),
+      ),
+
+    headerPanel(""),
+
+    fluidRow(
+      align = "center",
+      column(
+        textOutput("actor_name"),
+        tags$head(tags$style("#actor_name{color : black;
                                          font-size: 20px;
                                          font-style: bold;}")),
-      imageOutput("actress_img")
-      )
+        imageOutput("actor_img"),
+        width = 4
+      ),
+      column(
+        textOutput("actor2_name"),
+        tags$head(tags$style("#actor2_name{color : black;
+                                         font-size: 20px;
+                                         font-style: bold;}")),
+        imageOutput("actor2_img"),
+        width = 4
+      ),
+      column(
+        textOutput("actor3_name"),
+        tags$head(tags$style("#actor3_name{color : black;
+                                         font-size: 20px;
+                                         font-style: bold;}")),
+        imageOutput("actor3_img"),
+        width = 4
+      ),
+    ),
+
+headerPanel(""),
+headerPanel(""),
+headerPanel(""),
+headerPanel(""),
+
+
+    fluidRow(
+      align = "center",
+      textOutput("actresses_header"),
+      tags$head(tags$style("#actresses_header{color : blue;
+                                         font-size: 25px;
+                                         text-decoration-line: underline;}")),
+    ),
+
+    headerPanel(""),
+
+    fluidRow(
+      align = "center",
+      column(
+        textOutput("actress_name"),
+        tags$head(tags$style("#actress_name{color : black;
+                                         font-size: 20px;
+                                         font-style: bold;}")),
+        imageOutput("actress_img"),
+        width = 4
+      ),
+      column(
+        textOutput("actress2_name"),
+        tags$head(tags$style("#actress2_name{color : black;
+                                         font-size: 20px;
+                                         font-style: bold;}")),
+        imageOutput("actress2_img"),
+        width = 4
+      ),
+      column(
+        textOutput("actress3_name"),
+        tags$head(tags$style("#actress3_name{color : black;
+                                         font-size: 20px;
+                                         font-style: bold;}")),
+        imageOutput("actress3_img"),
+        width = 4
+      ),
+    )
   )
 )
 
@@ -115,71 +206,80 @@ server <- function(input, output) {
   })
   
   # Identify top 5 movie directors
-  top_five_movie_directors <- reactive({
+  top_three_movie_directors <- reactive({
     movie_directors <- filter(ratings_and_data(), category == "director")
     movie_directors <- table(movie_directors$primary_name)
     movie_directors <- data.frame(movie_directors)
     colnames(movie_directors) <- c('Director', 'Count')
     movie_directors <- as_tibble(movie_directors)
     movie_directors <- arrange(movie_directors, desc(Count))
-    return(movie_directors[1:5, 1:2])
+    movie_directors <- movie_directors[1:3, 1]
+    movie_directors[] <- lapply(movie_directors, as.character)
+    #movie_directors <- toString(movie_directors[1:3, 1])
+    return(movie_directors$Director)
   })
   
-  # Select top movie director
-  top_movie_director <- reactive({
-    result <- top_five_movie_directors()
-    result[] <- lapply(result, as.character)
-    result <- toString(result[1, 1])
-    return(result)
-  })
+  # # Select top movie director
+  # top_movie_director <- reactive({
+  #   result <- top_three_movie_directors()
+  #   result[] <- lapply(result, as.character)
+  #   result <- toString(result[1, 1])
+  #   return(result)
+  # })
   
   # Identify top 5 movie actors
-  top_five_movie_actors <- reactive({
+  top_three_movie_actors <- reactive({
     movie_actors <- filter(ratings_and_data(), category == "actor")
     movie_actors <- table(movie_actors$primary_name)
     movie_actors <- data.frame(movie_actors)
     colnames(movie_actors) <- c('Actor', 'Count')
     movie_actors <- as_tibble(movie_actors)
     movie_actors <- arrange(movie_actors, desc(Count))
-    return(movie_actors[1:5, 1:2])
+    movie_actors <- movie_actors[1:3, 1]
+    movie_actors[] <- lapply(movie_actors, as.character)
+    #movie_actors <- toString(movie_actors[1:3, 1])
+    return(movie_actors$Actor)
   })
 
-  # Select top movie actor
-  top_movie_actor <- reactive({
-    result <- top_five_movie_actors()
-    result[] <- lapply(result, as.character)
-    result <- toString(result[1, 1])
-    return(result)
-  })
+  # # Select top movie actor
+  # top_movie_actor <- reactive({
+  #   result <- top_three_movie_actors()
+  #   result[] <- lapply(result, as.character)
+  #   result <- toString(result[1, 1])
+  #   return(result)
+  # })
   
   # Identify top 5 movie actresses
-  top_five_movie_actresses <- reactive({
+  top_three_movie_actresses <- reactive({
     movie_actresses <- filter(ratings_and_data(), category == "actress")
     movie_actresses <- table(movie_actresses$primary_name)
     movie_actresses <- data.frame(movie_actresses)
-    colnames(movie_actresses) <- c('Director', 'Count')
+    colnames(movie_actresses) <- c('Actress', 'Count')
     movie_actresses <- as_tibble(movie_actresses)
     movie_actresses <- arrange(movie_actresses, desc(Count))
-    return(movie_actresses[1:5, 1:2])
+    movie_actresses <- movie_actresses[1:3, 1]
+    movie_actresses[] <- lapply(movie_actresses, as.character)
+    #movie_actresses <- toString(movie_actresses[1:3, 1])
+    return(movie_actresses$Actress)
   })
   
-  # Select top movie actress
-  top_movie_actress <- reactive({
-    result <- top_five_movie_actresses()
-    result[] <- lapply(result, as.character)
-    result <- toString(result[1, 1])
-    return(result)
-  })
+  # # Select top movie actress
+  # top_movie_actress <- reactive({
+  #   result <- top_three_movie_actresses()
+  #   result[] <- lapply(result, as.character)
+  #   result <- toString(result[1, 1])
+  #   return(result)
+  # })
   
   # Write top director/actor/actress to txt file
   celebrity_list <- reactive({
-    names <- c(top_movie_director(), top_movie_actor(), top_movie_actress())
-    # fileConn<-file("../data/celebrity_names.txt")
-    # writeLines(names, fileConn)
-    # close(fileConn)
-    
+    #names <- c(top_movie_director(), top_movie_actor(), top_movie_actress())
+    names <- c(top_three_movie_directors(), top_three_movie_actors(), top_three_movie_actresses())
     return(names)
   })
+  
+
+  
 
   output$mostWatchedMovieGenre <- renderText({
     
@@ -208,26 +308,86 @@ server <- function(input, output) {
     
   })
   
+  output$directors_header <- renderText({
+    req(input$file1)
+    return("Most Watched Directors")
+  })
+  
+  output$actors_header <- renderText({
+    req(input$file1)
+    return("Most Watched Actors")
+  })
+  
+  output$actresses_header <- renderText({
+    req(input$file1)
+    return("Most Watched Actresses")
+  })
+  
   output$director_name <- renderText({
     req(input$file1)
     writeLines(celebrity_list(), "../data/celebrity_names.txt")
-    return(paste(top_movie_director(), "(most watched director)"))
+    #return(paste(top_movie_director(), "(most watched director)"))
+    return(paste("1.", top_three_movie_directors()[1]))
+  })
+  
+  output$director2_name <- renderText({
+    req(input$file1)
+    writeLines(celebrity_list(), "../data/celebrity_names.txt")
+    #return(paste(top_movie_director(), "(most watched director)"))
+    return(paste("2.", top_three_movie_directors()[2]))
+  })
+  
+  output$director3_name <- renderText({
+    req(input$file1)
+    writeLines(celebrity_list(), "../data/celebrity_names.txt")
+    #return(paste(top_movie_director(), "(most watched director)"))
+    return(paste("3.", top_three_movie_directors()[3]))
   })
   
   output$actor_name <- renderText({
     req(input$file1)
     writeLines(celebrity_list(), "../data/celebrity_names.txt")
-    return(paste(top_movie_actor(), "(most watched actor)"))
+    #return(paste(top_movie_actor(), "(most watched actor)"))
+    return(paste("1.", top_three_movie_actors()[1]))
+  })
+  
+  output$actor2_name <- renderText({
+    req(input$file1)
+    writeLines(celebrity_list(), "../data/celebrity_names.txt")
+    #return(paste(top_movie_director(), "(most watched director)"))
+    return(paste("2.", top_three_movie_actors()[2]))
+  })
+  
+  output$actor3_name <- renderText({
+    req(input$file1)
+    writeLines(celebrity_list(), "../data/celebrity_names.txt")
+    #return(paste(top_movie_director(), "(most watched director)"))
+    return(paste("3.", top_three_movie_actors()[3]))
   })
   
   output$actress_name <- renderText({
     req(input$file1)
     writeLines(celebrity_list(), "../data/celebrity_names.txt")
-    return(paste(top_movie_actress(), "(most watched actress)"))
+    #return(paste(top_movie_actress(), "(most watched actress)"))
+    return(paste("1.", top_three_movie_actresses()[1]))
+  })
+    
+  output$actress2_name <- renderText({
+    req(input$file1)
+    writeLines(celebrity_list(), "../data/celebrity_names.txt")
+    #return(paste(top_movie_director(), "(most watched director)"))
+    return(paste("2.", top_three_movie_actresses()[2]))
+  })
+    
+  output$actress3_name <- renderText({
+    req(input$file1)
+    writeLines(celebrity_list(), "../data/celebrity_names.txt")
+    #return(paste(top_movie_director(), "(most watched director)"))
+    return(paste("3.", top_three_movie_actresses()[3]))
   })
   
   
-  output$director_img <- renderImage({
+  output$director1_img <- renderImage({
     
     req(input$file1)
     
@@ -236,26 +396,90 @@ server <- function(input, output) {
     
     print("posting director image")
     
-    list(src = paste0("../data/", top_movie_director(), ".jpg"))
+    #list(src = paste0("../data/", top_movie_director(), ".jpg"))
+    list(src = paste0("../data/", top_three_movie_directors()[1], ".jpg"))
   }, deleteFile = F)
+  
+  output$director2_img <- renderImage({
+    
+    req(input$file1)
+    
+    print("posting director 2 image")
+    
+    list(src = paste0("../data/", top_three_movie_directors()[2], ".jpg"))
+  }, deleteFile = F)
+  
+  output$director3_img <- renderImage({
+    
+    req(input$file1)
+    
+    print("posting director 3 image")
+    
+    list(src = paste0("../data/", top_three_movie_directors()[3], ".jpg"))
+  }, deleteFile = F)  
   
   output$actor_img <- renderImage({
     req(input$file1)
     
     print("posting actor image")
     
-    list(src = paste0("../data/", top_movie_actor(), ".jpg"))
+    #list(src = paste0("../data/", top_movie_actor(), ".jpg"))
+    list(src = paste0("../data/", top_three_movie_actors()[1], ".jpg"))
+  }, deleteFile = F)
+  
+  output$actor2_img <- renderImage({
+    req(input$file1)
+    
+    print("posting actor 2 image")
+    
+    #list(src = paste0("../data/", top_movie_actor(), ".jpg"))
+    list(src = paste0("../data/", top_three_movie_actors()[2], ".jpg"))
+  }, deleteFile = F)
+  
+  
+  output$actor3_img <- renderImage({
+    req(input$file1)
+    
+    print("posting actor 3 image")
+    
+    #list(src = paste0("../data/", top_movie_actor(), ".jpg"))
+    list(src = paste0("../data/", top_three_movie_actors()[3], ".jpg"))
   }, deleteFile = F)
   
   output$actress_img <- renderImage({
     req(input$file1)
     
     # Use TMDb Python wrapper to get images
-    py_run_file("tmdb_test.py")
+    #py_run_file("tmdb_test.py")
     
     print("posting actress image")
     
-    list(src = paste0("../data/", top_movie_actress(), ".jpg"))
+    #list(src = paste0("../data/", top_movie_actress(), ".jpg"))
+    list(src = paste0("../data/", top_three_movie_actresses()[1], ".jpg"))
+  }, deleteFile = F)
+  
+  output$actress2_img <- renderImage({
+    req(input$file1)
+    
+    # Use TMDb Python wrapper to get images
+    #py_run_file("tmdb_test.py")
+    
+    print("posting actress 2 image")
+    
+    #list(src = paste0("../data/", top_movie_actress(), ".jpg"))
+    list(src = paste0("../data/", top_three_movie_actresses()[2], ".jpg"))
+  }, deleteFile = F)
+  
+  output$actress3_img <- renderImage({
+    req(input$file1)
+    
+    # Use TMDb Python wrapper to get images
+    #py_run_file("tmdb_test.py")
+    
+    print("posting actress 3 image")
+    
+    #list(src = paste0("../data/", top_movie_actress(), ".jpg"))
+    list(src = paste0("../data/", top_three_movie_actresses()[3], ".jpg"))
   }, deleteFile = F)
   
   # output$contents <- renderTable({
